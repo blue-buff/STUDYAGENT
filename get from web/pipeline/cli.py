@@ -468,13 +468,226 @@ def cmd_search(args):
             print(f"      知识点: {kps} | 难度: {r['difficulty']}{source}")
 
 
+# ── 答案补全（方向A：webshot 不限配额）──
+
+def fetch_answers(paper_data, session=None, ocr=False, paper_id=None):
+    """
+    为题目逐题补答案。
+    1. 发请求到 /11q{id}.html 提取 explanation URL
+    2. 下载 webshot 解析图（不受配额限制）
+    3. 可选 Kimi OCR 提取答案文字
+
+    参数:
+      paper_data: extract() 返回的 dict
+      session: 已认证的 requests.Session
+      ocr: 是否调用 Kimi CLI 提取文字答案
+      paper_id: 可选，用于解析图命名
+
+    返回:
+      更新后的 paper_data，每题增加 explanation_url, explanation_path, answer_text
+    """
+    if session is None:
+        session = get_session()
+
+    pid = paper_id or paper_data.get("paper_id", "unknown")
+    img_dir = BASE_DIR / "explanations" / pid
+    img_dir.mkdir(parents=True, exist_ok=True)
+    fetched = 0
+
+    for i, q in enumerate(paper_data.get("questions", [])):
+        qid = q.get("id", "")
+        if q.get("answer_text"):
+            continue
+
+        # 从 detail 页提取 explanation URL
+        try:
+            resp = session.get(
+                f"{BASE_URL}/question/detail-{qid}.shtml",
+                timeout=15,
+                headers={"Referer": f"{DETAIL_URL}/"}
+            )
+            if resp.status_code != 200:
+                continue
+            html = resp.text
+        except Exception:
+            continue
+
+        expl_url = ""
+        m = re.search(r'"explanation"\s*:\s*"([^"]*webshot[^"]*)"', html)
+        if not m:
+            m = re.search(r'"(https?://webshot\.zujuan\.com/[^"]+)"', html)
+        if m:
+            expl_url = m.group(1).replace("\\u0026", "&").replace("\\/", "/")
+
+        if not expl_url:
+            continue
+
+        q["explanation_url"] = expl_url
+        img_path = img_dir / f"q{qid}.jpg"
+
+        # 下载
+        try:
+            r = session.get(expl_url, timeout=30,
+                           headers={"Referer": f"{DETAIL_URL}/"})
+            if r.status_code == 200 and len(r.content) > 1000:
+                img_path.write_bytes(r.content)
+                q["explanation_path"] = str(img_path)
+                fetched += 1
+
+                # OCR 提取答案
+                if ocr:
+                    ans = _ocr_answer(img_path)
+                    if ans:
+                        q["answer_text"] = ans
+                        q["answer_locked"] = False
+        except Exception:
+            continue
+
+    paper_data["_answers_fetched"] = fetched
+    return paper_data
+
+
+def _ocr_answer(image_path):
+    """Kimi CLI OCR 提取答案文字"""
+    import subprocess
+    try:
+        result = subprocess.run(
+            ["kimi", "--quiet", "-p",
+             "只输出正确答案的选项字母或数值。不要解释。",
+             str(image_path)],
+            capture_output=True, text=True, timeout=60
+        )
+        if result.returncode == 0:
+            ans = result.stdout.strip()
+            # 清理常见噪声
+            ans = re.sub(r'^(答案|正确答案|选|故选)\s*[:：]?\s*', '', ans)
+            ans = ans.strip('。. ')
+            return ans if len(ans) < 50 else ""
+    except (FileNotFoundError, subprocess.TimeoutExpired):
+        pass
+    return ""
+
+
+def enrich_db(subject=None, limit=50, ocr=False):
+    """
+    为数据库中无答案的题目补答案。
+    从 DB 取题目 → 逐题请求 detail 页 → 下载 webshot → 更新 DB
+    """
+    if not DB_PATH.exists():
+        return {"enriched": 0}
+
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+
+    sql = "SELECT * FROM questions WHERE (answer_text IS NULL OR answer_text = '') AND answer_locked = 1"
+    params = []
+    if subject:
+        sql += " AND subject = ?"
+        params.append(subject)
+    sql += " LIMIT ?"
+    params.append(limit)
+
+    rows = conn.execute(sql, params).fetchall()
+    conn.close()
+
+    if not rows:
+        return {"enriched": 0, "message": "没有需要补答案的题目"}
+
+    session = get_session()
+    enriched = 0
+
+    for row in rows:
+        qid = row["id"]
+        try:
+            resp = session.get(f"{BASE_URL}/question/detail-{qid}.shtml", timeout=15,
+                              headers={"Referer": f"{DETAIL_URL}/"})
+            if resp.status_code != 200:
+                continue
+            html = resp.text
+        except Exception:
+            continue
+
+        expl_url = ""
+        m = re.search(r'"explanation"\s*:\s*"([^"]*webshot[^"]*)"', html)
+        if not m:
+            m = re.search(r'"(https?://webshot\.zujuan\.com/[^"]+)"', html)
+        if m:
+            expl_url = m.group(1).replace("\\u0026", "&").replace("\\/", "/")
+
+        if not expl_url:
+            continue
+
+        img_dir = BASE_DIR / "explanations" / "db"
+        img_dir.mkdir(parents=True, exist_ok=True)
+        img_path = img_dir / f"q{qid}.jpg"
+
+        try:
+            r = session.get(expl_url, timeout=30,
+                           headers={"Referer": f"{DETAIL_URL}/"})
+            if r.status_code != 200 or len(r.content) <= 1000:
+                continue
+            img_path.write_bytes(r.content)
+
+            answer_text = ""
+            if ocr:
+                answer_text = _ocr_answer(img_path)
+
+            conn = sqlite3.connect(DB_PATH)
+            conn.execute(
+                "UPDATE questions SET explanation_url=?, answer_text=?, answer_locked=? WHERE id=?",
+                (expl_url, answer_text, 0 if answer_text else 1, qid)
+            )
+            conn.commit()
+            conn.close()
+            enriched += 1
+            time.sleep(0.3)
+        except Exception:
+            continue
+
+    return {"enriched": enriched, "total_checked": len(rows)}
+
+
+def cmd_enrich(args):
+    result = enrich_db(args.subject, args.limit, args.ocr)
+    if args.json:
+        print(json.dumps(result, ensure_ascii=False))
+    else:
+        print(f"补答案完成: 检查 {result.get('total_checked', 0)} 题, "
+              f"成功下载 {result['enriched']} 张解析图")
+
+
 def cmd_ingest(args):
     n = ingest(args.paper_id)
+
+    # 如果需要补答案
+    ans_info = ""
+    if args.fetch_answers and n > 0:
+        paper_data = extract(args.paper_id)
+        paper_data = fetch_answers(paper_data, session=get_session(),
+                                   ocr=args.ocr, paper_id=args.paper_id)
+        # 更新 DB 中的答案
+        conn = sqlite3.connect(DB_PATH)
+        for q in paper_data.get("questions", []):
+            if q.get("answer_text"):
+                conn.execute("UPDATE questions SET answer_text=?, answer_locked=0, explanation_url=? WHERE id=?",
+                           (q["answer_text"], q.get("explanation_url", ""), q["id"]))
+            elif q.get("explanation_url"):
+                conn.execute("UPDATE questions SET explanation_url=? WHERE id=?",
+                           (q["explanation_url"], q["id"]))
+        conn.commit()
+        conn.close()
+        ans_info = f", 补答案 {paper_data.get('_answers_fetched', 0)} 张"
+
     if args.json:
-        print(json.dumps({"paper_id": args.paper_id, "ingested": n, "status": "ok" if n > 0 else "already_imported"}, ensure_ascii=False))
+        print(json.dumps({
+            "paper_id": args.paper_id,
+            "ingested": n,
+            "status": "ok" if n > 0 else "already_imported",
+            "answers_fetched": paper_data.get("_answers_fetched", 0) if args.fetch_answers and n > 0 else 0,
+        }, ensure_ascii=False))
     else:
         if n > 0:
-            print(f"摄入完成: paper_id={args.paper_id}, 入库 {n} 题")
+            print(f"摄入完成: paper_id={args.paper_id}, 入库 {n} 题{ans_info}")
         else:
             print(f"已导入过: paper_id={args.paper_id}, 无新题")
 
@@ -549,7 +762,16 @@ def main():
     # ingest
     p = sub.add_parser("ingest", help="一键摄入（拆卷+入库）")
     p.add_argument("--json", action="store_true", help="JSON 输出（供 Agent 使用）")
+    p.add_argument("--fetch-answers", "-f", action="store_true", help="补答案（下载webshot解析图）")
+    p.add_argument("--ocr", action="store_true", help="Kimi OCR提取答案文字")
     p.add_argument("paper_id", help="试卷 ID")
+
+    # enrich
+    p = sub.add_parser("enrich", help="为题库已有题目补答案")
+    p.add_argument("--json", action="store_true", help="JSON 输出（供 Agent 使用）")
+    p.add_argument("--subject", "-s", help="学科（可选，不指定则全部）")
+    p.add_argument("--limit", "-n", type=int, default=50, help="最多处理几题")
+    p.add_argument("--ocr", action="store_true", help="Kimi OCR提取答案文字")
 
     # batch
     p = sub.add_parser("batch", help="批量摄入")
@@ -572,6 +794,8 @@ def main():
         cmd_search(args)
     elif args.cmd == "ingest":
         cmd_ingest(args)
+    elif args.cmd == "enrich":
+        cmd_enrich(args)
     elif args.cmd == "batch":
         cmd_batch(args)
     elif args.cmd == "stats":

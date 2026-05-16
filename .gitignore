@@ -18,3 +18,4 @@ get from web/zujuan/
 get from web/path2_api/node_modules/
 shared/*
 get from web/shared/
+get from web/pipeline/explanations/
