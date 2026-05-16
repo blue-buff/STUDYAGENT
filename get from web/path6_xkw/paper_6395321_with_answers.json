@@ -1,0 +1,527 @@
+{
+  "options": {
+    "timestamp": "1778864843256",
+    "knowledgeId": "",
+    "knowledgePoint": "",
+    "grade": "高中",
+    "subject": "物理",
+    "type": "整卷",
+    "paperType": "高考模拟",
+    "paperId": "6395321",
+    "paperTitle": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+    "year": null,
+    "order": "最新",
+    "source": "paper"
+  },
+  "results": [
+    {
+      "id": "q_1778864843256_1",
+      "index": "001",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "浙江省台州市2024-2025学年高一上学期1月期末物理试题",
+      "questionType": "单选题",
+      "difficulty": "容易",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "等效法",
+        "放大法",
+        "运动学 v-t 图象"
+      ],
+      "questionText": "下面四幅课本插图中包含的物理思想方法相同的是（ ）\nA. 甲和乙\nB. 乙和丙\nC. 乙和丁\nD. 丙和丁",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/6e/f9/7c16cafe4fd67653cd3c6efa5d53_62977686ex.png?hash=54a02f50c73ff12bafd2d21f9b07c716&sign=3777ddfa13308c2f278d1febe114fcfc&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "62977686",
+      "timestamp": "2026-05-15T17:07:23.257050+00:00"
+    },
+    {
+      "id": "q_1778864843256_2",
+      "index": "002",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "单选题",
+      "difficulty": "容易",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "比值定义法",
+        "欧姆定律的内容、表达式及简单应用"
+      ],
+      "questionText": "比值定义法是物理学中常用的研究方法，它用两个基本的物理量的“比”来定义一个新的物理量。定义的物理量往往是反映物质的最本质的属性，它不随定义所用物理量的大小而改变，下面式子属于比值定义法的是（ ）\nA. \nB. \nC. \nD. ",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/d8/ac/8817f71fc94cd0115f44d01718e7_69344856ex.png?hash=db29c044d7c6f6472a0560217ceabca2&sign=65a4c49e178b8e60c4cce3e9284fe0c8&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344856",
+      "timestamp": "2026-05-15T17:07:23.257239+00:00"
+    },
+    {
+      "id": "q_1778864843256_3",
+      "index": "003",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "单选题",
+      "difficulty": "容易",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "牛顿第三定律",
+        "共点力的平衡"
+      ],
+      "questionText": "国际拔河比赛规定，每个队按8名运动员体重的总和分成若干重量级别，同等级别的两个队进行比赛。如图所示，运动员必须穿“拔河鞋”或没有鞋跟等突出物的平底鞋，不能戴手套。不计拔河绳的质量，认为拔河过程中绳始终保持水平，下列说法正确的是（ ）\nA. 地面对运动员的作用力方向竖直向上\nB. 获胜队伍对绳的拉力大小等于失败队伍对绳的拉力大小\nC. 拔河绳对两支队伍的拉力是一对相互作用力\nD. 比赛过程中两队队员受到的地面摩擦力总是等大反向",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/df/3d/650a12e409e772d4951d2a26382d_69344857ex.png?hash=746069dbe8b0131e0703731d3464b50f&sign=5bc124f580db217847d23120b9165a3d&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344857",
+      "timestamp": "2026-05-15T17:07:23.257353+00:00"
+    },
+    {
+      "id": "q_1778864843256_4",
+      "index": "004",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "比值定义法",
+        "双星（多星）问题"
+      ],
+      "questionText": "引力波是时空弯曲中的涟漪，由宇宙中质量巨大的天体发生加速运动、碰撞合并等剧烈事件引发，会以光速在宇宙中传播。若已知某双星系统辐射引力波的功率为。其中为引力常量、为星球的质量、为双星之间的距离，则、分别为（ ）\nA. 、\nB. 、\nC. 、\nD. 、",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/92/f6/68c2a130fd5436e0801f4d89d509_69344858ex.png?hash=432ff08ca045caf6937ea97085c18f75&sign=5a6e3baefa5a912bb28fc9f410eee001&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344858",
+      "timestamp": "2026-05-15T17:07:23.257456+00:00"
+    },
+    {
+      "id": "q_1778864843256_5",
+      "index": "005",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "动量定理",
+        "反冲"
+      ],
+      "questionText": "乌贼被称为“海中火箭”，其“外套膜”能够迅速收缩，将海水高速喷出进而向另一方向加速冲刺，可轻易加速到。一质量为0.5kg（不含体内水）的乌贼初始时静止，某时刻开始以相对于地面恒为的速度水平喷水，不计水的阻力且不考虑竖直方向的运动和受力变化，则（ ）\nA. 乌贼喷水过程中乌贼和喷出的水组成的系统水平方向动量不守恒\nB. 乌贼向后喷水，喷出的水对周围的水产生一个作用力，周围的水对喷出的水的反作用力使乌贼向前运动\nC. 若乌贼要极短时间内达到的速度，则要一次性喷出约0.19kg的水\nD. 若乌贼要极短时间内达到的速度，此过程中乌贼受到它喷出的水的作用力的冲量为",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/e0/61/990b2243a14fd12ef1f8d177f22e_69344859ex.png?hash=c5476499dc47a245c8077d1f1825c739&sign=75e716f280a9b18191ef019755a255ce&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344859",
+      "timestamp": "2026-05-15T17:07:23.257564+00:00"
+    },
+    {
+      "id": "q_1778864843256_6",
+      "index": "006",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "通电导线及通电线圈周围的磁场"
+      ],
+      "questionText": "磁阱常用来约束带电粒子的运动。如图所示，四根通有大小相等且为恒定电流的长直导线垂直穿过平面，1、2、3、4直导线与平面的交点成边长为的正方形且关于轴和轴对称，各导线中电流方向已标出，已知无限长通电直导线产生的磁感应强度大小与到直导线距离成反比，题中带电粒子重力不计，下列说法正确的是（ ）\nA. 导线2、4连线上各点的磁感应强度均为0\nB. 从点处平行导线入射的带电粒子做匀速直线运动\nC. 轴上虚线框内各点磁感应强度相同\nD. 沿着轴正方向入射的粒子在坐标平面内做匀速圆周运动",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/eb/66/6543dd12546d630933c2701c419c_69344860ex.png?hash=dcf0d4db7557f7c6833b1d3e73c29e5c&sign=169edb5685419b235b3bad19baef53ac&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344860",
+      "timestamp": "2026-05-15T17:07:23.257669+00:00"
+    },
+    {
+      "id": "q_1778864843256_7",
+      "index": "007",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "动量定理",
+        "光的折射及折射定律"
+      ],
+      "questionText": "光镊技术可以用来捕获、操控微小粒子（目前已达微米级），其原理是光在接触物体后，会对其产生力的作用，虽然这个作用力很微小，但对于微小的物体如细胞，这种作用力足够使它发生移动。如图所示是某次激光操控微粒的光路示意图，、为完全相同的激光束，则（ ）\nA. 光镊技术利用光的直线传播特性\nB. 激光进入该微粒后传播速度不变\nC. 此次操控对微粒产生向上的作用力\nD. 只减少激光束的强度，对微粒有向左的分力作用",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/3e/2b/a4095c291f8c50e2f31058da4e3b_69344861ex.png?hash=5c09057e25abeb93d7e0e117734e4e73&sign=57e3a5f7cabd1f0408f2317b4b01184f&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344861",
+      "timestamp": "2026-05-15T17:07:23.257760+00:00"
+    },
+    {
+      "id": "q_1778864843256_8",
+      "index": "008",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "常见传感器的工作原理及应用"
+      ],
+      "questionText": "角速度计可测量飞机、航天器、潜艇的转动角速度，成为飞机、卫星等的制导系统的信息源。其简化结构如图所示，质量为的元件与轻质弹簧连接，可在杆上自由滑动，弹簧的自然长度为、劲度系数为 ， 电源电动势为、内阻不计，滑动变阻器总长也为 ， 电阻分布均匀，系统静止时在点，不计一切阻力，当系统绕轴以角速度转动时，元件发生位移并输出相应的电压信号，则（ ）\nA. 电路中电流随角速度的增大而增大\nB. 输出电压随角速度的增大而减小\nC. 弹簧的伸长量为\nD. 输出电压与的函数式为",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/6d/16/ed62a5213590db92c74ab6ab85bd_69344862ex.png?hash=79af76b6dbc5eb7e9d5d3a21960afae9&sign=9d0c152bd6f02c3c471219019947c779&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344862",
+      "timestamp": "2026-05-15T17:07:23.257875+00:00"
+    },
+    {
+      "id": "q_1778864843256_9",
+      "index": "009",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "质量亏损与质能方程"
+      ],
+      "questionText": "在量子引力理论中，普朗克长度被视为可探测的最小空间尺度。一种估算方法是考虑如下思想实验：为了探测更小的空间结构，需要更高能量的光子。但当光子能量极高时，其自身引力效应显著，可能形成一个微观黑洞，（理论分析表明，逃逸速度是环绕速度的倍，即）从而无法提供更小的尺度信息。高中阶段为了简化运算，我们可以令光子的波长等于乘以黑洞的半径（设黑洞的半径等于普朗克长度），我们就可以得到最小的长度。已知光子的能量为 ， 有效质量为。普朗克常数 ， 真空光速 ， 引力常数 ， 则普朗克长度约为（ ）\nA. \nB. \nC. \nD. ",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/06/a5/c4dcc9d44c13a09c6a2d496c273b_69344863ex.png?hash=ae55dd3b7ca64dc9de637d16fdc879d0&sign=7c27e9fa11a58d57492b9ed590004b23&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344863",
+      "timestamp": "2026-05-15T17:07:23.257987+00:00"
+    },
+    {
+      "id": "q_1778864843256_10",
+      "index": "010",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "生活中的圆周运动",
+        "重力势能",
+        "机械能守恒定律"
+      ],
+      "questionText": "如图1所示，把一个小球放在玻璃漏斗中，晃动漏斗，可以使小球在短时间内沿漏斗壁在某一水平面内做匀速圆周运动，并不落向漏斗下方。我们用如下模型对此进行分析：如图2所示，一圆锥体（圆锥的顶点为O，底面圆心为O'）绕垂直于水平面的轴线以恒定的角速度ω转动，一质量为m小物体（可看作质点）随圆锥体一起转动且相对于圆锥体静止。以圆锥体为参考系，圆锥体中的小物体还多受到一个“力”，同时小物体还将具有一个与这个“力”对应的“势能”。为便于研究，在过轴线的平面上，以顶点O为坐标原点、以竖直向上为y轴正方向建立xOy直角坐标系，小物体在这个坐标系中具有的“势能”可表示为。该“势能”与小物体的重力势能之和为其总势能。当小物体处在圆锥壁上总势能最小的某一位置时，小物体既没有沿圆锥面上滑的趋势，也没有沿圆锥面下滑的趋势，此时小物体受到的摩擦力就会恰好为0，即使圆锥壁光滑，小物体也不会滑向下方。根据以上信息可知，下列说法中正确的是（ ）\nA. 小物体多受到的那个“力”的方向指向O'点\nB. 小物体多受到的那个“力”的大小随x的增加而减小\nC. 该“势能”的表达式是选取了x轴处“势能”为零\nD. 当圆锥体以恒定的角速度ω'转动时（），小物体沿圆锥壁向下移至某一位置时受到的摩擦力才可能恰好为0",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/38/f6/8991fd7bfd4fff01f980e0444262_69344864ex.png?hash=fa5c7b07ee8ecb5940003391fbae6f48&sign=c1f314237603999eb53528e5d62ffadb&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344864",
+      "timestamp": "2026-05-15T17:07:23.258194+00:00"
+    },
+    {
+      "id": "q_1778864843256_11",
+      "index": "011",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "多选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "玻尔理论与氢原子的能级跃迁",
+        "匀变速直线运动规律的综合运用",
+        "电场线",
+        "光电效应"
+      ],
+      "questionText": "下列说法正确的是（ ）\nA. 自由落体过程中任意连续相等时间通过的位移之比可能为2：3\nB. 电场线一定是不闭合的\nC. 光电效应实验中光的频率越高，逸出光电子的动能就越大\nD. 根据玻尔的氢原子理论，氢原子由低能级向高能级跃迁时动能变小、电势能增大",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/88/5f/d250009cceb01df1cc5d8bf0e367_69344865ex.png?hash=23f64762f1d09631061c0d0c0946eaaf&sign=ad0cb76e3a0727d07563b8a5af4d5d58&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344865",
+      "timestamp": "2026-05-15T17:07:23.258300+00:00"
+    },
+    {
+      "id": "q_1778864843256_12",
+      "index": "012",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "多选题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "横波的图象"
+      ],
+      "questionText": "一列简谐横波沿x轴正方向传播，从某时刻开始计时，在t=6s时的波形如图（a）所示。在x轴正方向，距离原点小于一个波长的A质点，其振动图像如图（b）所示。下列说法正确的是（ ）\nA. A质点在t=3s与t=7s时刻速度方向相反\nB. A点的平衡位置离原点的距离为x=0.25m\nC. t=9s时，平衡位置在x=1.7m处的质点加速度方向沿y轴正方向\nD. t=13.5s时，平衡位置在x=1.4m处的质点位移为负值",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/fe/d5/f7636d2878170f507fcedb1c8985_69344866ex.png?hash=6b7ccefeeb075c2a1356e79911bffc54&sign=fc0971606bf6b8589991c435068cc0c2&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344866",
+      "timestamp": "2026-05-15T17:07:23.258391+00:00"
+    },
+    {
+      "id": "q_1778864843256_13",
+      "index": "013",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "多选题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "胡克定律",
+        "动能定理的综合应用",
+        "机械能守恒定律"
+      ],
+      "questionText": "如图所示，一光滑木板倾斜固定，与水平面的夹角 ， 木板的底端固定一垂直木板的挡板，上端固定一定滑轮。劲度系数为的轻弹簧下端固定在挡板上，上端与质量为的物块Q连接。跨过定滑轮的不可伸长的轻绳一端与物块Q连接，另一端与套在水平固定的光滑直杆上的质量为的物块P连接。初始时物块P在水平外力作用下静止在直杆的点，且恰好与直杆没有相互作用，轻绳与水平直杆的夹角。撤去水平外力 ， 物块P由静止运动到点时轻绳与直杆间的夹角。已知滑轮到水平直杆的垂直距离为 ， 重力加速度大小为 ， 弹簧轴线、物块Q与定滑轮之间的轻绳共线且与木板平行，不计滑轮大小及摩擦，物块P、Q均可视为质点。取 ， 。则下列说法正确的是（ ）\nA. 物块Q下滑过程中，弹簧的弹性势能一直减小\nB. 物块P从点运动到点的过程中，轻绳拉力对物块P做正功\nC. 物块P从点运动到点的过程中，轻绳拉力对物块Q做的功为\nD. 物块P从点运动到点的过程中，物块Q的重力势能减少量等于P、Q两物块总动能的增加量",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/a1/14/2d85a051c7e03d505a402f7cd5dd_69344867ex.png?hash=ff5d57f9edac6600cd744a5fd637b1c4&sign=ce5b8b56a53950b2aa1d8785c33a475f&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344867",
+      "timestamp": "2026-05-15T17:07:23.258531+00:00"
+    },
+    {
+      "id": "q_1778864843256_14",
+      "index": "014",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "单选题",
+      "difficulty": "容易",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "验证力的平行四边形定则",
+        "探究加速度与力、质量的关系",
+        "探究小车速度随时间变化的规律",
+        "用单摆测定重力加速度"
+      ],
+      "questionText": "在下列学生实验中，需要用到打点计时器和天平的实验有（ ）\nA. “探究小车速度随时间变化的规律”\nB. “探究加速度与力、质量的关系”\nC. “用单摆测量重力加速度的大小”\nD. “探究两个互成角度的力的合成规律”",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/ea/96/239e44edc25bd3e49b15a7ee89c7_69344868ex.png?hash=f328564a378aa8cecf2c5472275d7b83&sign=e8efbd78ca1dde6e70e8ce27b74b9c53&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344868",
+      "timestamp": "2026-05-15T17:07:23.258612+00:00"
+    },
+    {
+      "id": "q_1778864843256_15",
+      "index": "015",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "解答题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "探究加速度与力、质量的关系"
+      ],
+      "questionText": "在“探究加速度与力、质量的关系”的实验中，实验装置如图所示。",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/7d/db/a001d446005e3e4f2f4b1e7617b8_69344869ex.png?hash=dfd3e6da127f6571e39c3517c7fcb32c&sign=7403aef45cffe33ecac710e12573e0f4&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344869",
+      "timestamp": "2026-05-15T17:07:23.258658+00:00"
+    },
+    {
+      "id": "q_1778864843256_16",
+      "index": "016",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "解答题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "用双缝干涉测光波的波长"
+      ],
+      "questionText": "在“用双缝干涉测量光的波长”的实验中，",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/a2/33/c352d716c86c70c5cba898b6dd1e_69344872ex.png?hash=196c382a348d27c88acc02322c7e4a2c&sign=6a693aae5bc1becfb40d67c96e61a190&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344872",
+      "timestamp": "2026-05-15T17:07:23.258698+00:00"
+    },
+    {
+      "id": "q_1778864843256_17",
+      "index": "017",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "解答题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "刻度尺、游标卡尺及螺旋测微器的使用",
+        "导体电阻率的测量",
+        "电池电动势和内阻的测量"
+      ],
+      "questionText": "",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/1e/99/31c84cf15b7623dc9e4d4ba58bdc_69344875ex.png?hash=cf2f5195b0ba274434b4de861156feb9&sign=bfc0213a531d2ce367a76938b339d928&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344875",
+      "timestamp": "2026-05-15T17:07:23.258731+00:00"
+    },
+    {
+      "id": "q_1778864843256_18",
+      "index": "018",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "解答题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "理想气体与理想气体的状态方程",
+        "热力学第一定律及其应用",
+        "气体的等容变化及查理定律",
+        "压强及封闭气体压强的计算"
+      ],
+      "questionText": "如图所示，一根劲度系数的轻质弹簧上端固定，下端与一质量为的绝热活塞连接并悬挂一绝热气缸。活塞与气缸内封闭着一定质量的理想气体。气缸内部带有加热装置，顶部开口且有卡扣，以保证活塞不会脱离。气缸内部高为、底面积为 ， 缸内气体初始温度为 ， 活塞到气缸底部的距离为 ， 弹簧被拉伸了。现缓慢加热气体使气缸下降到活塞恰好到达气缸顶部。已知大气压强恒为 ， 重力加速度为 ， 忽略活塞和气缸壁的厚度及加热装置的体积，不计一切摩擦。求：",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/d6/68/b11e9cfd7b68253f26848ceaaf58_69344878ex.png?hash=310596ee3a302c9dff8b7df049f175a3&sign=f4f67a76d4d21160d7822a32deb36e98&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344878",
+      "timestamp": "2026-05-15T17:07:23.258809+00:00"
+    },
+    {
+      "id": "q_1778864843256_19",
+      "index": "019",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "解答题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "竖直平面的圆周运动",
+        "碰撞模型"
+      ],
+      "questionText": "如图所示，质量为的滑块从一平台水平抛出，恰好从点沿切线进入半径的竖直光滑圆弧轨道 ， 且对轨道点无挤压。之后滑块沿圆弧轨道从点滑出以后进入无限长水平轨道 ， 与静止在水平轨道的点质量为滑块发生弹性碰撞，由于足够长，在以后的运动中滑块、还能再次发生碰撞，且碰撞前滑块都已处于静止，每次碰撞都是弹性碰撞。已知 ， 圆弧轨道的点与水平轨道的点平滑连接，由特殊材料制成而与水平轨道没有摩擦，滑块与水平轨道的动摩擦因数 ， 本题中 ， 求：",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/5c/79/3ee3c4ad32385e00753d1c0f6484_69344882ex.png?hash=cd37b3cf88a5464e3e4186e5bc8fe544&sign=08ee1db03e601d45b017819ae850795a&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344882",
+      "timestamp": "2026-05-15T17:07:23.258905+00:00"
+    },
+    {
+      "id": "q_1778864843256_20",
+      "index": "020",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "解答题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "安培力的计算",
+        "电磁感应中的磁变类问题"
+      ],
+      "questionText": "如图甲所示，一竖直无限长导线通有恒定电流 ， 旁边有一边长的正方形闭合导电线框，线框由质量均为、电阻均为的金属杆、和不计质量与电阻的导电轻杆、组成，可绕竖直对称轴无摩擦转动。开始时线框与通电直导线共面且边与直导线的距离 ， 现给线框一初始角速度按俯视顺时针方向开始转动，已知无限长直导线在空间某点产生的磁感应强度与该点到直导线的垂直距离成反比、与电流成正比，即 ， 其中未知。如图乙所示是的长直导线在空间产生的磁感应强度大小与的关系。",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/c8/ed/fbdcd5eb9b5bfe14efd640290400_69344886ex.png?hash=de10ad5d7f164a1f2f3d9194fb5ad38f&sign=0be1cb3de35eabd1893e17d4bd1f12cd&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344886",
+      "timestamp": "2026-05-15T17:07:23.258986+00:00"
+    },
+    {
+      "id": "q_1778864843256_21",
+      "index": "021",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+      "questionType": "解答题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "动量定理",
+        "动能定理的综合应用",
+        "带电粒子在匀强磁场中的运动"
+      ],
+      "questionText": "微通道板电子倍增管是利用入射电子经过微通道时的多次反射放大信号强度的一种电子器件，在高能物理（中微子、宇宙射线探测）和质谱仪、真空紫外探测器等有广泛应用。如图所示一截面是矩形的微通道水平放置，竖直边。一个电子沿竖直平面以与水平方向成的初速度打到的中点进入微通道，每个电子撞到内壁后能撞出2个次级电子，且碰撞过程电子平行内壁的动量被完全吸收，垂直内壁的动量等大反向，并被撞出的次级电子均分。现通道内加有垂直平面的匀强磁场B。忽略重力和次级电子间的相互作用，电子电量的绝对值为 ， 质量为 ， 求：",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/4f/4e/e8e26b78155aaa971b9bbc37cf68_69344890ex.png?hash=95f8260b6e30d7b8e7e347524f0ef192&sign=2b4d3d2b90e35fa571f079ad63ae5b5f&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "69344890",
+      "timestamp": "2026-05-15T17:07:23.259061+00:00"
+    }
+  ]
+}

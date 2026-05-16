@@ -1,0 +1,66 @@
+ï»¿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>ç»å½æå</title>
+</head>
+<body>
+    <script>
+        var utils = {
+            setCookie: function (name, value, expires, domain, path) {
+                var exp = new Date();
+                exp.setTime(exp.getTime() + expires);
+                var cookie = name + "=" + encodeURIComponent(value) + ";expires=" + exp.toGMTString();
+                if (domain) cookie += ";domain=" + domain;
+                cookie += ";path=" + (path || "/");
+                document.cookie = cookie;
+            },
+            getQueryVariable: function (variable) {
+                var query = window.location.search.substring(1);
+                var vars = query.split("&");
+                for (var i = 0; i < vars.length; i++) {
+                    var pair = vars[i].split("=");
+                    if (pair[0] === variable) { return pair[1]; }
+                }
+                return undefined;
+            },
+
+            remove_arg_from_url: function (name) {
+                var query_string = window.location.search.substring(1);
+                //å¦ææ²¡æåæ°åè¿åç©º
+                if (query_string !== undefined) {
+                    var reg = new RegExp('(^|&)' + name + '=([^&]*)(&|$)');
+                    var query = query_string.replace(reg, '');
+                    if (query) {
+                        return query;
+                    }
+                }
+                return "";
+            }
+        }
+        var domain = "zxxk.com";
+        if (window.location.host.indexOf("xkw.com") > -1) {
+            domain = "xkw.com";
+        }
+        var ticket = utils.getQueryVariable("ticket");
+        if (ticket) {
+            utils.setCookie("auth.ticket", ticket, 5 * 1000, domain, "/");
+            utils.setCookie("xk.passport", "", -1000, domain, "/");
+            utils.setCookie("xk.passport.info", "", -1000, domain, "/");
+            utils.setCookie("xk.passport.ticket", "", -1000, domain, "/");
+            utils.setCookie("xk.passport.uid", "", -1000, domain, "/");
+        }
+        var curl = utils.getQueryVariable("curl");
+
+        var href = "http://www.zxxk.com";
+        if (curl) {
+            var reg = new RegExp(/____/g);
+            href = utils.remove_arg_from_url("ticket").replace("curl=", "").replace(reg, '&');
+        } else {
+            utils.setCookie("auth.nocallback", 1, 5 * 1000, domain, "/");
+        }
+        window.location = href;
+
+    </script>
+</body>
+</html>

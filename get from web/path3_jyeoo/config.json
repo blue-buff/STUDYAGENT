@@ -1,0 +1,46 @@
+{
+  "base_url": "https://www.jyeoo.com",
+  "request_delay": {
+    "min": 2.0,
+    "max": 5.0
+  },
+  "max_retries": 3,
+  "timeout": 30,
+  "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+  "subjects": {
+    "math": {"junior": "math", "senior": "math2", "primary": "math3"},
+    "physics": {"junior": "physics", "senior": "physics2"},
+    "chemistry": {"junior": "chemistry", "senior": "chemistry2"},
+    "biology": {"junior": "bio", "senior": "bio2"},
+    "english": {"junior": "english", "senior": "english2"},
+    "chinese": {"junior": "chinese", "senior": "chinese2"},
+    "geography": {"junior": "geo", "senior": "geo2"},
+    "history": {"junior": "history", "senior": "history2"},
+    "politics": {"junior": "politics", "senior": "politics2"}
+  },
+  "grade_levels": {
+    "primary": ["grade1", "grade2", "grade3", "grade4", "grade5", "grade6"],
+    "junior": ["grade7", "grade8", "grade9"],
+    "senior": ["grade10", "grade11", "grade12"]
+  },
+  "question_types": {
+    "all": "",
+    "single_choice": "1",
+    "multi_choice": "2",
+    "fill_blank": "3",
+    "answer": "4",
+    "true_false": "5"
+  },
+  "difficulty_levels": {
+    "all": "",
+    "easy": "1",
+    "medium_easy": "2",
+    "medium": "3",
+    "medium_hard": "4",
+    "hard": "5"
+  },
+  "output": {
+    "dir": "output",
+    "max_screenshot_size_mb": 100
+  }
+}

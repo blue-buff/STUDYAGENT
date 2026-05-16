@@ -1,0 +1,74 @@
+{
+  "68956363": {
+    "extracted": "A",
+    "ground_truth": "A",
+    "type": "单选题",
+    "match": true
+  },
+  "68956364": {
+    "extracted": "C",
+    "ground_truth": "C",
+    "type": "单选题",
+    "match": true
+  },
+  "68956366": {
+    "extracted": "B",
+    "ground_truth": "B",
+    "type": "单选题",
+    "match": true
+  },
+  "68956367": {
+    "extracted": "AB",
+    "ground_truth": "D",
+    "type": "单选题",
+    "match": false
+  },
+  "68956368": {
+    "extracted": "D",
+    "ground_truth": "D",
+    "type": "单选题",
+    "match": true
+  },
+  "68956369": {
+    "extracted": "A",
+    "ground_truth": "A",
+    "type": "单选题",
+    "match": true
+  },
+  "68956370": {
+    "extracted": "AC",
+    "ground_truth": "A,C",
+    "type": "多选题",
+    "match": false
+  },
+  "68956371": {
+    "extracted": "ABD",
+    "ground_truth": "A,B,D",
+    "type": "多选题",
+    "match": false
+  },
+  "68956372": {
+    "extracted": "BCD",
+    "ground_truth": "B,C,D",
+    "type": "多选题",
+    "match": false
+  },
+  "68956373": {
+    "extracted": "y=\\pm 2x",
+    "ground_truth": "【第1空】<math xmlns=\\",
+    "type": "填空题",
+    "match": false
+  },
+  "68956374": {
+    "extracted": "[-2,1]",
+    "ground_truth": "【第1空】<math xmlns=\\",
+    "type": "填空题",
+    "match": false
+  },
+  "68956375": {
+    "extracted": "21",
+    "ground_truth": "【第1空】21",
+    "type": "填空题",
+    "match": true
+  }
+}

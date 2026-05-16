@@ -1,0 +1,28 @@
+{
+  "AGIEval-agieval_mathqa.jsonl": 351,
+  "AGIEval-agieval_gaokao-mathcloze.jsonl": 118,
+  "AGIEval-agieval_gaokao-physics.jsonl": 200,
+  "AGIEval-agieval_gaokao-chemistry.jsonl": 207,
+  "C-Eval-ceval_math_raw.json": 189,
+  "C-Eval-ceval_physics_raw.json": 199,
+  "C-Eval-ceval_chemistry_raw.json": 196,
+  "gaokao-math-questions": 5000,
+  "total_before_dedup": 6460,
+  "total_after_dedup": 5371,
+  "with_answer": 1306,
+  "subjects": {
+    "数学": 4601,
+    "物理": 393,
+    "化学": 377
+  },
+  "types": {
+    "单选题": 3166,
+    "填空题": 1138,
+    "解答题": 1067
+  },
+  "difficulties": {
+    "easy": 1929,
+    "medium": 3179,
+    "hard": 263
+  }
+}

@@ -1,0 +1,19 @@
+# StudyAgent
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+*.pkl
+explanations/
+*.db
+output/
+session_monitor.log
+roundtrip_test.json
+test_images/
+bilibili_get/
+get from web/tk-exam-paper/
+get from web/xkw-zujuan-script/
+get from web/zujuan-export/
+get from web/zujuan/
+get from web/path2_api/node_modules/
+shared/*

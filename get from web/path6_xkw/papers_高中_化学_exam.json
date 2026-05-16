@@ -1,0 +1,2865 @@
+[
+  {
+    "_index": "paper_v3",
+    "_id": "6229652",
+    "_score": null,
+    "sort": [
+      2026,
+      1778835434,
+      6229652
+    ],
+    "is_copyright_issue": 0,
+    "id": 6229652,
+    "title": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+    "stage": 3,
+    "subject_id": 7,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1778835433,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2966,
+        "category_name": "高中化学"
+      },
+      {
+        "category_id": 14278,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 23881,
+        "category_name": "模拟试题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "3",
+        "name": "河北省"
+      }
+    ],
+    "citys": [
+      {
+        "id": "81",
+        "name": "衡水市"
+      }
+    ],
+    "customers": null,
+    "created_at": 1774368000,
+    "updated_at": 1778835434,
+    "structure": [
+      {
+        "head_title": "选择题：本题共14小题，每小题3分，共42分。在每小题给出的四个选项中，只有一项是符合题目要求的。",
+        "questions": [
+          {
+            "question_id": 68089130,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68089131,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68089132,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68089133,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68089134,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68089135,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68089136,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68089137,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68089138,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68089139,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68089140,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68089141,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68089142,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68089143,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "非选择题：本题共4小题，共58分。",
+        "questions": [
+          {
+            "question_id": 68089144,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68089152,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68089159,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68089165,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      68089130,
+      68089131,
+      68089132,
+      68089133,
+      68089134,
+      68089135,
+      68089136,
+      68089137,
+      68089138,
+      68089139,
+      68089140,
+      68089141,
+      68089142,
+      68089143,
+      68089144,
+      68089152,
+      68089159,
+      68089165
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 0,
+    "download_num": 0,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 1,
+    "source_text": "2026·衡水模拟",
+    "examine_time": 1778835433,
+    "pid": 6229652,
+    "viewUrl": "/paper/view-6229652.shtml",
+    "edit_time": "2026-05-15",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 18,
+    "new_flag": true,
+    "new_time": 1776266075,
+    "topic": null,
+    "use_num": "0",
+    "look_num": "0",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6236594",
+    "_score": null,
+    "sort": [
+      2026,
+      1778806678,
+      6236594
+    ],
+    "is_copyright_issue": 0,
+    "id": 6236594,
+    "title": "广东汕头市2026年普通高中高三下学期高考第一次模拟考试 化学试卷",
+    "stage": 3,
+    "subject_id": 7,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1778298167,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2966,
+        "category_name": "高中化学"
+      },
+      {
+        "category_id": 14278,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 23881,
+        "category_name": "模拟试题"
+      },
+      {
+        "category_id": 257302,
+        "category_name": "一模真题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "19",
+        "name": "广东省"
+      }
+    ],
+    "citys": [
+      {
+        "id": "293",
+        "name": "汕头市"
+      }
+    ],
+    "customers": null,
+    "created_at": 1773158400,
+    "updated_at": 1778806678,
+    "structure": [
+      {
+        "head_title": "单项选择题：本题共16小题，共44分。（1-10题每小题2分，共20分；11-16题每小题4分，共24分。每小题只有一个选项符合要求。）",
+        "questions": [
+          {
+            "question_id": 68149163,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149164,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149165,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149166,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149167,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149168,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149169,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149170,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149171,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149172,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149173,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149174,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149175,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149176,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149177,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149178,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "非选择题：本题共4个小题，共56分。",
+        "questions": [
+          {
+            "question_id": 68149179,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149180,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149187,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68149194,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      68149163,
+      68149164,
+      68149165,
+      68149166,
+      68149167,
+      68149168,
+      68149169,
+      68149170,
+      68149171,
+      68149172,
+      68149173,
+      68149174,
+      68149175,
+      68149176,
+      68149177,
+      68149178,
+      68149179,
+      68149180,
+      68149187,
+      68149194
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 3,
+    "download_num": 0,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": "2026·汕头模拟",
+    "examine_time": 1778298167,
+    "pid": 6236594,
+    "viewUrl": "/paper/view-6236594.shtml",
+    "edit_time": "2026-05-15",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 20,
+    "new_flag": true,
+    "new_time": 1776266075,
+    "topic": null,
+    "use_num": "0",
+    "look_num": "3",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6248845",
+    "_score": null,
+    "sort": [
+      2026,
+      1778806677,
+      6248845
+    ],
+    "is_copyright_issue": 0,
+    "id": 6248845,
+    "title": "广西柳州市2026年高三下学期化学高考适应性考试试卷",
+    "stage": 3,
+    "subject_id": 7,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1776304466,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2966,
+        "category_name": "高中化学"
+      },
+      {
+        "category_id": 14278,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 23881,
+        "category_name": "模拟试题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "20",
+        "name": "广西壮族自治区"
+      }
+    ],
+    "citys": [
+      {
+        "id": "311",
+        "name": "柳州市"
+      }
+    ],
+    "customers": null,
+    "created_at": 1775530754,
+    "updated_at": 1778806677,
+    "structure": [
+      {
+        "head_title": "选择题：本题共14小题，每小题3分，共42分。在每小题给出的四个选项中，只有一项是符合题目要求的。",
+        "questions": [
+          {
+            "question_id": 68245630,
+            "score": {
+              "score": 3,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68245631,
+            "score": {
+              "score": 3,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68245632,
+            "score": {
+              "score": 3,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68245633,
+            "score": {
+              "score": 3,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68245634,
+            "score": {
+              "score": 3,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68245635,
+            "score": {
+              "score": 3,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68245636,
+            "score": {
+              "score": 3,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68245637,
+            "score": {
+              "score": 3,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68245638,
+            "score": {
+              "score": 3,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68245639,
+            "score": {
+              "score": 3,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68245640,
+            "score": {
+              "score": 3,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68245641,
+            "score": {
+              "score": 3,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68245642,
+            "score": {
+              "score": 3,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68245643,
+            "score": {
+              "score": 3,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "非选择题：本题共4小题，共58分。",
+        "questions": [
+          {
+            "question_id": 68245644,
+            "score": {
+              "score": 14,
+              "scoreList": "[{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"1\",\"1\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68245652,
+            "score": {
+              "score": 15,
+              "scoreList": "[{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"3\",\"scoreList\":[\"3\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68245660,
+            "score": {
+              "score": 14,
+              "scoreList": "[{\"score\":\"3.5\",\"scoreList\":[\"3.5\"]},{\"score\":\"3.5\",\"scoreList\":null},{\"score\":\"3.5\",\"scoreList\":[\"1\",\"1\",\"1\",\"0.5\"]},{\"score\":\"3.5\",\"scoreList\":[\"2\",\"1.5\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68245665,
+            "score": {
+              "score": 15,
+              "scoreList": "[{\"score\":\"2.5\",\"scoreList\":[\"1.5\",\"1\"]},{\"score\":\"2.5\",\"scoreList\":[\"2.5\"]},{\"score\":\"2.5\",\"scoreList\":[\"1.5\",\"1\"]},{\"score\":\"2.5\",\"scoreList\":[\"1.5\",\"1\"]},{\"score\":\"2.5\",\"scoreList\":[\"2.5\"]},{\"score\":\"2.5\",\"scoreList\":[\"1.5\",\"1\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      68245630,
+      68245631,
+      68245632,
+      68245633,
+      68245634,
+      68245635,
+      68245636,
+      68245637,
+      68245638,
+      68245639,
+      68245640,
+      68245641,
+      68245642,
+      68245643,
+      68245644,
+      68245652,
+      68245660,
+      68245665
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 28,
+    "term_name": "高三下学期",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 5,
+    "download_num": 3,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": "2026高三下·柳州",
+    "examine_time": 1776304466,
+    "pid": 6248845,
+    "viewUrl": "/paper/view-6248845.shtml",
+    "edit_time": "2026-05-15",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 18,
+    "new_flag": true,
+    "new_time": 1776266075,
+    "topic": null,
+    "use_num": "3",
+    "look_num": "6",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6217091",
+    "_score": null,
+    "sort": [
+      2026,
+      1778806677,
+      6217091
+    ],
+    "is_copyright_issue": 0,
+    "id": 6217091,
+    "title": "贵州六盘水市2025-2026学年上学期2月高三年级适应性考试（二模）化学试题卷",
+    "stage": 3,
+    "subject_id": 7,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1778142476,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2966,
+        "category_name": "高中化学"
+      },
+      {
+        "category_id": 14278,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 23881,
+        "category_name": "模拟试题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "24",
+        "name": "贵州省"
+      }
+    ],
+    "citys": [
+      {
+        "id": "407",
+        "name": "六盘水市"
+      }
+    ],
+    "customers": null,
+    "created_at": 1771084800,
+    "updated_at": 1778806677,
+    "structure": [
+      {
+        "head_title": "选择题(本题共14小题，每小题3分，共42分。在每小题给出的四个选项中，只有一个选项符合题目要求)",
+        "questions": [
+          {
+            "question_id": 67990942,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67990943,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67990944,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67990945,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67990946,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67990947,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67990948,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67990949,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67990950,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67990951,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67990952,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67990953,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67990954,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67990955,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "填空题(本题共4小题，共58分)",
+        "questions": [
+          {
+            "question_id": 67990956,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67990962,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67990966,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67990972,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      67990942,
+      67990943,
+      67990944,
+      67990945,
+      67990946,
+      67990947,
+      67990948,
+      67990949,
+      67990950,
+      67990951,
+      67990952,
+      67990953,
+      67990954,
+      67990955,
+      67990956,
+      67990962,
+      67990966,
+      67990972
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 2,
+    "download_num": 1,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": "2026·六盘水模拟",
+    "examine_time": 1778142476,
+    "pid": 6217091,
+    "viewUrl": "/paper/view-6217091.shtml",
+    "edit_time": "2026-05-15",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 18,
+    "new_flag": true,
+    "new_time": 1776266075,
+    "topic": null,
+    "use_num": "1",
+    "look_num": "2",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6258655",
+    "_score": null,
+    "sort": [
+      2026,
+      1778806671,
+      6258655
+    ],
+    "is_copyright_issue": 0,
+    "id": 6258655,
+    "title": "广东茂名市2026年高三年级第一次综合测试化学试卷",
+    "stage": 3,
+    "subject_id": 7,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1778298787,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2966,
+        "category_name": "高中化学"
+      },
+      {
+        "category_id": 14278,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 23881,
+        "category_name": "模拟试题"
+      },
+      {
+        "category_id": 257302,
+        "category_name": "一模真题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "19",
+        "name": "广东省"
+      }
+    ],
+    "citys": [
+      {
+        "id": "297",
+        "name": "茂名市"
+      }
+    ],
+    "customers": null,
+    "created_at": 1770566400,
+    "updated_at": 1778806671,
+    "structure": [
+      {
+        "head_title": "选择题：本题共16小题，共44分。第1~10小题，每小题2分；第11~16小题，每小题4分。在每小题给出的四个选项中，只有一项是符合题目要求的。",
+        "questions": [
+          {
+            "question_id": 68328386,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68328387,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68328388,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68328389,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67992546,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68328390,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68328391,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67992550,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68328392,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68328393,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68328394,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67992551,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68328395,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68328396,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68328397,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68328398,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "非选择题：本题共4小题，共56分。",
+        "questions": [
+          {
+            "question_id": 67992566,
+            "score": {
+              "score": 0,
+              "scoreList": "[\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\"]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68328399,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68328406,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\",\"0\",\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68328410,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      68328386,
+      68328387,
+      68328388,
+      68328389,
+      67992546,
+      68328390,
+      68328391,
+      67992550,
+      68328392,
+      68328393,
+      68328394,
+      67992551,
+      68328395,
+      68328396,
+      68328397,
+      68328398,
+      67992566,
+      68328399,
+      68328406,
+      68328410
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 2,
+    "download_num": 0,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": "2026·茂名模拟",
+    "examine_time": 1778298787,
+    "pid": 6258655,
+    "viewUrl": "/paper/view-6258655.shtml",
+    "edit_time": "2026-05-15",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 20,
+    "new_flag": true,
+    "new_time": 1776266075,
+    "topic": null,
+    "use_num": "0",
+    "look_num": "2",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6227998",
+    "_score": null,
+    "sort": [
+      2026,
+      1778806651,
+      6227998
+    ],
+    "is_copyright_issue": 0,
+    "id": 6227998,
+    "title": "广东梅州市2026年高三下学期一模化学试题",
+    "stage": 3,
+    "subject_id": 7,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1778297323,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2966,
+        "category_name": "高中化学"
+      },
+      {
+        "category_id": 14278,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 23881,
+        "category_name": "模拟试题"
+      },
+      {
+        "category_id": 257302,
+        "category_name": "一模真题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "19",
+        "name": "广东省"
+      }
+    ],
+    "citys": [
+      {
+        "id": "300",
+        "name": "梅州市"
+      }
+    ],
+    "customers": null,
+    "created_at": 1773676800,
+    "updated_at": 1778806651,
+    "structure": [
+      {
+        "head_title": "选择题：本题共16小题，共44分。第1~10小题，每小题2分；第11~16小题，每小题4分。在每小题给出的四个选项中，只有一项是符合题目要求的。",
+        "questions": [
+          {
+            "question_id": 68075974,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68075975,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68075976,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68075977,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68075978,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68075979,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68075980,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68075981,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68075982,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68075983,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68075984,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68075985,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68075986,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68075987,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68075988,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68075989,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "非选择题：本题共4小题，共56分。",
+        "questions": [
+          {
+            "question_id": 68075990,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68075997,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68076004,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68076009,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      68075974,
+      68075975,
+      68075976,
+      68075977,
+      68075978,
+      68075979,
+      68075980,
+      68075981,
+      68075982,
+      68075983,
+      68075984,
+      68075985,
+      68075986,
+      68075987,
+      68075988,
+      68075989,
+      68075990,
+      68075997,
+      68076004,
+      68076009
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 2,
+    "download_num": 0,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": "2026·梅州模拟",
+    "examine_time": 1778297323,
+    "pid": 6227998,
+    "viewUrl": "/paper/view-6227998.shtml",
+    "edit_time": "2026-05-15",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 20,
+    "new_flag": true,
+    "new_time": 1776266075,
+    "topic": null,
+    "use_num": "0",
+    "look_num": "2",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6206834",
+    "_score": null,
+    "sort": [
+      2026,
+      1778138049,
+      6206834
+    ],
+    "is_copyright_issue": 0,
+    "id": 6206834,
+    "title": "四川省绵阳市2026届高三上学期第二次诊断性考试 化学试题",
+    "stage": 3,
+    "subject_id": 7,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1778138049,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2966,
+        "category_name": "高中化学"
+      },
+      {
+        "category_id": 14278,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 23881,
+        "category_name": "模拟试题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "23",
+        "name": "四川省"
+      }
+    ],
+    "citys": [
+      {
+        "id": "390",
+        "name": "绵阳市"
+      }
+    ],
+    "customers": null,
+    "created_at": 1769356800,
+    "updated_at": 1778138049,
+    "structure": [
+      {
+        "head_title": "单项选择题：本题共15小题，每小题3分，共45分。在每小题给出的四个选项中，只有一项是最符合题目要求的。",
+        "questions": [
+          {
+            "question_id": 67906564,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906565,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906566,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906567,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906568,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906569,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906570,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906571,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906572,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906573,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906574,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906575,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906576,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906577,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906578,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "非选择题：本题共4小题，共55分。",
+        "questions": [
+          {
+            "question_id": 67906579,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906587,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906594,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67906599,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      67906564,
+      67906565,
+      67906566,
+      67906567,
+      67906568,
+      67906569,
+      67906570,
+      67906571,
+      67906572,
+      67906573,
+      67906574,
+      67906575,
+      67906576,
+      67906577,
+      67906578,
+      67906579,
+      67906587,
+      67906594,
+      67906599
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 0,
+    "download_num": 0,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": "2026·绵阳模拟",
+    "examine_time": 1778138049,
+    "pid": 6206834,
+    "viewUrl": "/paper/view-6206834.shtml",
+    "edit_time": "2026-05-07",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 19,
+    "new_flag": true,
+    "new_time": 1776266075,
+    "topic": null,
+    "use_num": "1",
+    "look_num": "6",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6322889",
+    "_score": null,
+    "_ignored": [
+      "structure.questions.score.scoreList.keyword"
+    ],
+    "sort": [
+      2026,
+      1777276046,
+      6322889
+    ],
+    "is_copyright_issue": 0,
+    "id": 6322889,
+    "title": "备考2026届高考 2021-2025全国各地真题汇编 专题14 化学实验综合",
+    "stage": 3,
+    "subject_id": 7,
+    "type": 19,
+    "type_text": "二轮复习",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1777276037,
+    "from": 4,
+    "categories": [
+      {
+        "category_id": 2966,
+        "category_name": "高中化学"
+      },
+      {
+        "category_id": 14278,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 23878,
+        "category_name": "二轮专题"
+      },
+      {
+        "category_id": 91724,
+        "category_name": "真题分类汇编"
+      }
+    ],
+    "provinces": [
+      {
+        "id": 0,
+        "name": "全国"
+      }
+    ],
+    "customers": null,
+    "created_at": 1777176827,
+    "updated_at": 1777276046,
+    "structure": [
+      {
+        "head_title": "选择题",
+        "questions": [
+          {
+            "question_id": 51948137,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 58005236,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 50307757,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 51978165,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 58652295,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 50304019,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 63423458,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 57077566,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 52000240,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 63423341,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 55818192,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 52543397,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 50392398,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 63365627,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 55818184,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 61407243,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "填空题",
+        "questions": [
+          {
+            "question_id": 54332607,
+            "score": {
+              "score": 7,
+              "scoreList": "[{\"score\":\"2.5\",\"scoreList\":[\"1.5\",\"1\"]},{\"score\":\"2.5\",\"scoreList\":[\"1\",\"1\",\"0.5\"]},{\"score\":\"2\",\"scoreList\":[\"1\",\"1\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 63423296,
+            "score": {
+              "score": 6,
+              "scoreList": "[{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1\",\"0.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1\",\"0.5\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "实验探究题",
+        "questions": [
+          {
+            "question_id": 57005398,
+            "score": {
+              "score": 10,
+              "scoreList": "[{\"score\":\"1.5\",\"scoreList\":[\"1\",\"0.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"0.5\",\"0.5\",\"0.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 57344217,
+            "score": {
+              "score": 8,
+              "scoreList": "[{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1\",\"0.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1\",\"0.5\"]},{\"score\":\"1\",\"scoreList\":null},{\"score\":\"1\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 57005255,
+            "score": {
+              "score": 6,
+              "scoreList": "[{\"score\":\"2\",\"scoreList\":[\"0.5\",\"0.5\",\"0.5\",\"0.5\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"1\",\"0.5\",\"0.5\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 59296215,
+            "score": {
+              "score": 8,
+              "scoreList": "[{\"score\":\"2\",\"scoreList\":null},{\"score\":\"2\",\"scoreList\":[\"1\",\"1\"]},{\"score\":\"2\",\"scoreList\":[\"1\",\"1\"]},{\"score\":\"2\",\"scoreList\":[\"1\",\"0.5\",\"0.5\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "综合题",
+        "questions": [
+          {
+            "question_id": 63365722,
+            "score": {
+              "score": 8,
+              "scoreList": "[{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"1\",\"0.5\",\"0.5\"]},{\"score\":\"2\",\"scoreList\":[\"1\",\"0.5\",\"0.5\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 63298937,
+            "score": {
+              "score": 8,
+              "scoreList": "[{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1\",\"0.5\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"0.5\",\"0.5\",\"0\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "流程题",
+        "questions": [
+          {
+            "question_id": 63565182,
+            "score": {
+              "score": 7,
+              "scoreList": "[{\"score\":\"1.5\",\"scoreList\":[\"1\",\"0.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":null},{\"score\":\"1\",\"scoreList\":[\"0.5\",\"0.5\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      51948137,
+      58005236,
+      50307757,
+      51978165,
+      58652295,
+      50304019,
+      63423458,
+      57077566,
+      52000240,
+      63423341,
+      55818192,
+      52543397,
+      50392398,
+      63365627,
+      55818184,
+      61407243,
+      54332607,
+      63423296,
+      57005398,
+      57344217,
+      57005255,
+      59296215,
+      63365722,
+      63298937,
+      63565182
+    ],
+    "style": "[0,0,1,0,0,0,0,0,0,1,0,1]",
+    "exegesis": "{\"examtime\":null,\"notes\":\"1、填写答题卡的内容用2B铅笔填写<br>2、提前 xx 分钟收取答题卡\",\"subtitle\":\"综合考试\",\"score\":null,\"part_name\":[\"第Ⅰ卷 客观题\",\"第Ⅱ卷 主观题\"],\"part_tip\":[\"第Ⅰ卷的注释\",\"第Ⅱ卷的注释\"],\"part_count\":[\"0\",\"1\",\"1\",\"1\",\"1\"]}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 3,
+    "download_num": 0,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": null,
+    "examine_time": 1777276037,
+    "pid": 6322889,
+    "viewUrl": "/paper/view-6322889.shtml",
+    "edit_time": "2026-04-27",
+    "iconClass": "iconf-tongbu",
+    "typeName": "二轮复习",
+    "question_num": 25,
+    "new_flag": true,
+    "new_time": 1776266075,
+    "topic": {
+      "id": "21382",
+      "title": "【2026届高考备考】2021-2025全国各地高考化学真题分类汇编"
+    },
+    "use_num": "1",
+    "look_num": "5",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "fuxi",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6322660",
+    "_score": null,
+    "sort": [
+      2026,
+      1777275971,
+      6322660
+    ],
+    "is_copyright_issue": 0,
+    "id": 6322660,
+    "title": "备考2026届高考 2021-2025全国各地真题汇编 专题13 生命活动的物质基础 有机合成",
+    "stage": 3,
+    "subject_id": 7,
+    "type": 19,
+    "type_text": "二轮复习",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1777275962,
+    "from": 4,
+    "categories": [
+      {
+        "category_id": 2966,
+        "category_name": "高中化学"
+      },
+      {
+        "category_id": 14278,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 23878,
+        "category_name": "二轮专题"
+      },
+      {
+        "category_id": 91724,
+        "category_name": "真题分类汇编"
+      }
+    ],
+    "provinces": [
+      {
+        "id": 0,
+        "name": "全国"
+      }
+    ],
+    "customers": null,
+    "created_at": 1777173254,
+    "updated_at": 1777275971,
+    "structure": [
+      {
+        "head_title": "选择题",
+        "questions": [
+          {
+            "question_id": 63423294,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 63337341,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 63432636,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 58142443,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 57077557,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 51978090,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 52537365,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 50275491,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 50392395,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 63394238,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 61407236,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 55818183,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 53948439,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 52041390,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 50744864,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "填空题",
+        "questions": [
+          {
+            "question_id": 63432656,
+            "score": {
+              "score": 7,
+              "scoreList": "[{\"score\":\"2.5\",\"scoreList\":[\"1\",\"1\",\"0.5\"]},{\"score\":\"2.5\",\"scoreList\":[\"2.5\"]},{\"score\":\"2\",\"scoreList\":[\"1\",\"0.5\",\"0.5\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "推断题",
+        "questions": [
+          {
+            "question_id": 53932240,
+            "score": {
+              "score": 8,
+              "scoreList": "[{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"0.5\",\"0.5\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 52087194,
+            "score": {
+              "score": 9,
+              "scoreList": "[{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1\",\"0.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"0.5\",\"0.5\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 63434077,
+            "score": {
+              "score": 9,
+              "scoreList": "[{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1\",\"0.5\"]},{\"score\":\"1.5\",\"scoreList\":null},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"0.5\",\"0.5\",\"0.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "实验探究题",
+        "questions": [
+          {
+            "question_id": 53948461,
+            "score": {
+              "score": 8,
+              "scoreList": "[{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"0.5\",\"0.5\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "综合题",
+        "questions": [
+          {
+            "question_id": 63423353,
+            "score": {
+              "score": 8,
+              "scoreList": "[{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1\",\"0.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1\",\"0.5\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 51978122,
+            "score": {
+              "score": 8,
+              "scoreList": "[{\"score\":\"1.5\",\"scoreList\":[\"1\",\"0.5\"]},{\"score\":\"1.5\",\"scoreList\":null},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1\",\"scoreList\":[\"0.5\",\"0.5\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "流程题",
+        "questions": [
+          {
+            "question_id": 50291306,
+            "score": {
+              "score": 7,
+              "scoreList": "[{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 58845630,
+            "score": {
+              "score": 6,
+              "scoreList": "[{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":null},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":null},{\"score\":\"1\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      63423294,
+      63337341,
+      63432636,
+      58142443,
+      57077557,
+      51978090,
+      52537365,
+      50275491,
+      50392395,
+      63394238,
+      61407236,
+      55818183,
+      53948439,
+      52041390,
+      50744864,
+      63432656,
+      53932240,
+      52087194,
+      63434077,
+      53948461,
+      63423353,
+      51978122,
+      50291306,
+      58845630
+    ],
+    "style": "[0,0,1,0,0,0,0,0,0,1,0,1]",
+    "exegesis": "{\"examtime\":null,\"notes\":\"1、填写答题卡的内容用2B铅笔填写<br>2、提前 xx 分钟收取答题卡\",\"subtitle\":\"综合考试\",\"score\":null,\"part_name\":[\"第Ⅰ卷 客观题\",\"第Ⅱ卷 主观题\"],\"part_tip\":[\"第Ⅰ卷的注释\",\"第Ⅱ卷的注释\"],\"part_count\":[\"0\",\"1\",\"1\",\"1\",\"1\",\"1\"]}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 2,
+    "download_num": 0,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": null,
+    "examine_time": 1777275962,
+    "pid": 6322660,
+    "viewUrl": "/paper/view-6322660.shtml",
+    "edit_time": "2026-04-27",
+    "iconClass": "iconf-tongbu",
+    "typeName": "二轮复习",
+    "question_num": 24,
+    "new_flag": true,
+    "new_time": 1776266075,
+    "topic": {
+      "id": "21382",
+      "title": "【2026届高考备考】2021-2025全国各地高考化学真题分类汇编"
+    },
+    "use_num": "1",
+    "look_num": "3",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "fuxi",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6319319",
+    "_score": null,
+    "sort": [
+      2026,
+      1777275920,
+      6319319
+    ],
+    "is_copyright_issue": 0,
+    "id": 6319319,
+    "title": "备考2026届高考 2021-2025全国各地真题汇编 专题11 盐类水解和沉淀溶解平衡",
+    "stage": 3,
+    "subject_id": 7,
+    "type": 19,
+    "type_text": "二轮复习",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1777275907,
+    "from": 4,
+    "categories": [
+      {
+        "category_id": 2966,
+        "category_name": "高中化学"
+      },
+      {
+        "category_id": 14278,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 23878,
+        "category_name": "二轮专题"
+      },
+      {
+        "category_id": 91724,
+        "category_name": "真题分类汇编"
+      }
+    ],
+    "provinces": [
+      {
+        "id": 0,
+        "name": "全国"
+      }
+    ],
+    "customers": null,
+    "created_at": 1777124886,
+    "updated_at": 1777275920,
+    "structure": [
+      {
+        "head_title": "选择题",
+        "questions": [
+          {
+            "question_id": 61407230,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 54474013,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 63423453,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 57344208,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 57005044,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 54659914,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 54474023,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 53859547,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 64780528,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 63565165,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 57077568,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 53619915,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 51978162,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 63423344,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 63423461,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 63365633,
+            "score": {
+              "score": 2,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "填空题",
+        "questions": [
+          {
+            "question_id": 58142419,
+            "score": {
+              "score": 10,
+              "scoreList": "[{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"1\",\"1\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"1\",\"0.5\",\"0.5\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "实验探究题",
+        "questions": [
+          {
+            "question_id": 63298457,
+            "score": {
+              "score": 8,
+              "scoreList": "[{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1\",\"0.5\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]},{\"score\":\"1\",\"scoreList\":[\"0.5\",\"0.5\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 50307729,
+            "score": {
+              "score": 11,
+              "scoreList": "[{\"score\":\"2.5\",\"scoreList\":[\"2.5\"]},{\"score\":\"2.5\",\"scoreList\":[\"1.5\",\"1\"]},{\"score\":\"2\",\"scoreList\":[\"0.5\",\"0.5\",\"0.5\",\"0.5\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "综合题",
+        "questions": [
+          {
+            "question_id": 54474025,
+            "score": {
+              "score": 8,
+              "scoreList": "[{\"score\":\"2\",\"scoreList\":[\"1\",\"1\"]},{\"score\":\"2\",\"scoreList\":[\"1\",\"1\"]},{\"score\":\"2\",\"scoreList\":[\"1\",\"1\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 54659916,
+            "score": {
+              "score": 8,
+              "scoreList": "[{\"score\":\"3\",\"scoreList\":[\"1.5\",\"1.5\"]},{\"score\":\"2.5\",\"scoreList\":[\"1.5\",\"1\"]},{\"score\":\"2.5\",\"scoreList\":[\"1\",\"1\",\"0.5\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "流程题",
+        "questions": [
+          {
+            "question_id": 57344209,
+            "score": {
+              "score": 10,
+              "scoreList": "[{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1\",\"0.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1.5\",\"scoreList\":[\"1.5\"]},{\"score\":\"1\",\"scoreList\":[\"1\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 51978105,
+            "score": {
+              "score": 13,
+              "scoreList": "[{\"score\":\"2.5\",\"scoreList\":[\"2.5\"]},{\"score\":\"2.5\",\"scoreList\":[\"1.5\",\"1\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"1\",\"1\"]},{\"score\":\"2\",\"scoreList\":[\"2\"]},{\"score\":\"2\",\"scoreList\":[\"1\",\"1\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      61407230,
+      54474013,
+      63423453,
+      57344208,
+      57005044,
+      54659914,
+      54474023,
+      53859547,
+      64780528,
+      63565165,
+      57077568,
+      53619915,
+      51978162,
+      63423344,
+      63423461,
+      63365633,
+      58142419,
+      63298457,
+      50307729,
+      54474025,
+      54659916,
+      57344209,
+      51978105
+    ],
+    "style": "[0,0,1,0,0,0,0,0,0,1,0,1]",
+    "exegesis": "{\"examtime\":null,\"notes\":\"1、填写答题卡的内容用2B铅笔填写<br>2、提前 xx 分钟收取答题卡\",\"subtitle\":\"综合考试\",\"score\":null,\"part_name\":[\"第Ⅰ卷 客观题\",\"第Ⅱ卷 主观题\"],\"part_tip\":[\"第Ⅰ卷的注释\",\"第Ⅱ卷的注释\"],\"part_count\":[\"0\",\"1\",\"1\",\"1\",\"1\"]}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 1,
+    "download_num": 0,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": null,
+    "examine_time": 1777275907,
+    "pid": 6319319,
+    "viewUrl": "/paper/view-6319319.shtml",
+    "edit_time": "2026-04-27",
+    "iconClass": "iconf-tongbu",
+    "typeName": "二轮复习",
+    "question_num": 23,
+    "new_flag": true,
+    "new_time": 1776266075,
+    "topic": {
+      "id": "21382",
+      "title": "【2026届高考备考】2021-2025全国各地高考化学真题分类汇编"
+    },
+    "use_num": "1",
+    "look_num": "1",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "fuxi",
+    "format_examine_time": "Invalid date"
+  }
+]

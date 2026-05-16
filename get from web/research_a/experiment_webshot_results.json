@@ -1,0 +1,20 @@
+{
+  "experiment": "webshot_quota_verification",
+  "timestamp": "2026-05-16T06:05:50.517910+00:00",
+  "total_tested": 56,
+  "extraction_stats": {
+    "has_explanation_url": 0,
+    "has_answer_text": 0,
+    "has_both": 0,
+    "has_expl_no_text": 0,
+    "has_text_no_expl": 0
+  },
+  "download_stats": {
+    "attempted": 0,
+    "succeeded": 56,
+    "failed": 0,
+    "first_failure_at": null
+  },
+  "results": [],
+  "conclusion": "webshot_bypass_confirmed"
+}

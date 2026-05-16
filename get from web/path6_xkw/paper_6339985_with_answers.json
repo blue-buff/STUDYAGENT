@@ -1,0 +1,466 @@
+{
+  "options": {
+    "timestamp": "1778864753022",
+    "knowledgeId": "",
+    "knowledgePoint": "",
+    "grade": "高中",
+    "subject": "数学",
+    "type": "整卷",
+    "paperType": "高考模拟",
+    "paperId": "6339985",
+    "paperTitle": "广东广州市天河区2026年普通高中毕业班适应性训练（二模）数学试卷",
+    "year": null,
+    "order": "最新",
+    "source": "paper"
+  },
+  "results": [
+    {
+      "id": "q_1778864753022_1",
+      "index": "001",
+      "questionPath": "",
+      "answerPath": "https://webshot.zujuan.com/q/e9/7c/7a1978e7cd73f5fca3dbdd935967_68956363an.png?hash=262aa16b01993ef8390312dc52086f28&sign=d05e94e6a67a71f725d7c4586f08eff3&from=2&sort=0&parent_id=0",
+      "images": [],
+      "source": "广东广州市天河区2026年普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "单选题",
+      "difficulty": "容易",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "二项式系数"
+      ],
+      "questionText": "在的二项展开式中，第4项的二项式系数是（ ）\nA. 56\nB. -56\nC. 70\nD. -70",
+      "answerText": "A",
+      "answerImages": [
+        "https://webshot.zujuan.com/q/e9/7c/7a1978e7cd73f5fca3dbdd935967_68956363an.png?hash=262aa16b01993ef8390312dc52086f28&sign=d05e94e6a67a71f725d7c4586f08eff3&from=2&sort=0&parent_id=0"
+      ],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/e9/7c/7a1978e7cd73f5fca3dbdd935967_68956363ex.png?hash=d223e9dde55911d48eada741b04501eb&sign=20e3f433ceb81b389631cc050db6548a&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": false,
+      "questionId": "68956363",
+      "timestamp": "2026-05-15T17:05:53.022612+00:00"
+    },
+    {
+      "id": "q_1778864753022_2",
+      "index": "002",
+      "questionPath": "",
+      "answerPath": "https://webshot.zujuan.com/q/6f/f5/ae94e5c0400c87ae4d2c06aac47f_68956364an.png?hash=4a6d7b747cfcaddd9f2414f599b291b9&sign=2dfdb9592fc427de1c33bad09698e5e9&from=2&sort=0&parent_id=0",
+      "images": [],
+      "source": "广东广州市天河区2026届普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "单选题",
+      "difficulty": "容易",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "复数在复平面中的表示",
+        "复数代数形式的乘除运算"
+      ],
+      "questionText": "已知复数z满足 ， 则复数z在复平面内对应的点位于\nA. 第一象限\nB. 第二象限\nC. 第三象限\nD. 第四象限",
+      "answerText": "C",
+      "answerImages": [
+        "https://webshot.zujuan.com/q/6f/f5/ae94e5c0400c87ae4d2c06aac47f_68956364an.png?hash=4a6d7b747cfcaddd9f2414f599b291b9&sign=2dfdb9592fc427de1c33bad09698e5e9&from=2&sort=0&parent_id=0"
+      ],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/6f/f5/ae94e5c0400c87ae4d2c06aac47f_68956364ex.png?hash=a899b909f87e18517c3de84759a070ab&sign=c2e3d0952710f3969b3cee16ee6437d4&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": false,
+      "questionId": "68956364",
+      "timestamp": "2026-05-15T17:05:53.022690+00:00"
+    },
+    {
+      "id": "q_1778864753022_3",
+      "index": "003",
+      "questionPath": "",
+      "answerPath": "https://webshot.zujuan.com/q/79/cf/6fee28bb76079cb411e2d3fc78ce_68956366an.png?hash=723638c4ba154ffb5bca1b7a5fcd7c6e&sign=646aee4f6e70e9553e445308bdc2a253&from=2&sort=0&parent_id=0",
+      "images": [],
+      "source": "广东广州市天河区2026届普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "必要条件、充分条件与充要条件的判断",
+        "函数的奇偶性"
+      ],
+      "questionText": "函数是奇函数的充要条件是（ ）\nA. \nB. \nC. \nD. ",
+      "answerText": "B",
+      "answerImages": [
+        "https://webshot.zujuan.com/q/79/cf/6fee28bb76079cb411e2d3fc78ce_68956366an.png?hash=723638c4ba154ffb5bca1b7a5fcd7c6e&sign=646aee4f6e70e9553e445308bdc2a253&from=2&sort=0&parent_id=0"
+      ],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/79/cf/6fee28bb76079cb411e2d3fc78ce_68956366ex.png?hash=20b8857d0713ea174fba8ca8cec172ca&sign=5afca54b97e4e3ecf0b2b1c20aa51821&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": false,
+      "questionId": "68956366",
+      "timestamp": "2026-05-15T17:05:53.022750+00:00"
+    },
+    {
+      "id": "q_1778864753022_4",
+      "index": "004",
+      "questionPath": "",
+      "answerPath": "https://webshot.zujuan.com/q/79/37/72382442e1daad094ccb7e33abeb_68956367an.png?hash=7ecaadc4a14e5a19307adccd52e1f43f&sign=12b685fe67cb77b92f3a8b372b1e8eeb&from=2&sort=0&parent_id=0",
+      "images": [],
+      "source": "广东广州市天河区2026年普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "平面向量的数量积运算",
+        "平面向量的投影向量"
+      ],
+      "questionText": "在中，已知 ， 则向量在上的投影向量为（ ）\nA. \nB. \nC. \nD. ",
+      "answerText": "D",
+      "answerImages": [
+        "https://webshot.zujuan.com/q/79/37/72382442e1daad094ccb7e33abeb_68956367an.png?hash=7ecaadc4a14e5a19307adccd52e1f43f&sign=12b685fe67cb77b92f3a8b372b1e8eeb&from=2&sort=0&parent_id=0"
+      ],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/79/37/72382442e1daad094ccb7e33abeb_68956367ex.png?hash=2ce477ec3bb095d7e758b644f733a0b8&sign=9488bf0e1d8027aaa9a50f913574b0d8&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": false,
+      "questionId": "68956367",
+      "timestamp": "2026-05-15T17:05:53.022810+00:00"
+    },
+    {
+      "id": "q_1778864753022_5",
+      "index": "005",
+      "questionPath": "",
+      "answerPath": "https://webshot.zujuan.com/q/05/2f/26e160d4dbfe596cbf9c9fa571cb_68956368an.png?hash=e5e9c78b0db598678ee2077c7fb99a22&sign=dfbd776b1ac0893ad5b6823ffe3e539f&from=2&sort=0&parent_id=0",
+      "images": [],
+      "source": "广东广州市天河区2026届普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "两角和与差的余弦公式",
+        "直线与圆的位置关系",
+        "圆方程的综合应用"
+      ],
+      "questionText": "已知点在圆上，点 ， 当最大时，则（ ）\nA. \nB. \nC. \nD. ",
+      "answerText": "D",
+      "answerImages": [
+        "https://webshot.zujuan.com/q/05/2f/26e160d4dbfe596cbf9c9fa571cb_68956368an.png?hash=e5e9c78b0db598678ee2077c7fb99a22&sign=dfbd776b1ac0893ad5b6823ffe3e539f&from=2&sort=0&parent_id=0"
+      ],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/05/2f/26e160d4dbfe596cbf9c9fa571cb_68956368ex.png?hash=cfe9ef877428b558669ac827ad7a99fd&sign=69c041e9a299b02e462e70de955e42aa&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": false,
+      "questionId": "68956368",
+      "timestamp": "2026-05-15T17:05:53.022856+00:00"
+    },
+    {
+      "id": "q_1778864753022_6",
+      "index": "006",
+      "questionPath": "",
+      "answerPath": "https://webshot.zujuan.com/q/f7/f8/69526a012fb2ed5cb163132eaa9e_68956369an.png?hash=287fe22b4a1b0cf5941ce19cebb60ab7&sign=011d19573fda691c831877d5d7e41c7c&from=2&sort=0&parent_id=0",
+      "images": [],
+      "source": "广东广州市天河区2026届普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "单选题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "简单的三角恒等变换",
+        "二倍角的余弦公式",
+        "含三角函数的复合函数的值域与最值",
+        "正弦定理的应用",
+        "三角形中的几何计算"
+      ],
+      "questionText": "在锐角中，角所对的边分别为且 ， 则的取值范围（ ）\nA. \nB. \nC. \nD. ",
+      "answerText": "A",
+      "answerImages": [
+        "https://webshot.zujuan.com/q/f7/f8/69526a012fb2ed5cb163132eaa9e_68956369an.png?hash=287fe22b4a1b0cf5941ce19cebb60ab7&sign=011d19573fda691c831877d5d7e41c7c&from=2&sort=0&parent_id=0"
+      ],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/f7/f8/69526a012fb2ed5cb163132eaa9e_68956369ex.png?hash=7c93908e16ab0f2148e4ad4907f9435f&sign=1a8edaedb8ede0a2d6fc302aba8d9c20&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": false,
+      "questionId": "68956369",
+      "timestamp": "2026-05-15T17:05:53.022903+00:00"
+    },
+    {
+      "id": "q_1778864753022_7",
+      "index": "007",
+      "questionPath": "",
+      "answerPath": "https://webshot.zujuan.com/q/1d/7a/24f189ada616c819b6f93e21fd67_68956370an.png?hash=74d8975eed2d4b0b9881967f10413652&sign=b1f9b64ce3b454af9c19a00fa4faad34&from=2&sort=0&parent_id=0",
+      "images": [],
+      "source": "广东广州市天河区2026届普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "多选题",
+      "difficulty": "容易",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "众数、中位数、平均数",
+        "极差、方差与标准差",
+        "用样本估计总体的百分位数"
+      ],
+      "questionText": "为普及法制教育，对50名市民开展了一次法律知识竞赛答题活动，测试成绩统计如表所示，其中两个数据被遮盖.成绩/分929395969899100人数5781413下列结论正确的是（ ）\nA. 众数为99\nB. 极差为9\nC. 分位数为96\nD. 平均数大于中位数",
+      "answerText": "A,C",
+      "answerImages": [
+        "https://webshot.zujuan.com/q/1d/7a/24f189ada616c819b6f93e21fd67_68956370an.png?hash=74d8975eed2d4b0b9881967f10413652&sign=b1f9b64ce3b454af9c19a00fa4faad34&from=2&sort=0&parent_id=0"
+      ],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/1d/7a/24f189ada616c819b6f93e21fd67_68956370ex.png?hash=1968828546708594127e98627c92ffc4&sign=e4338991a01241595542573e271a178c&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": false,
+      "questionId": "68956370",
+      "timestamp": "2026-05-15T17:05:53.022976+00:00"
+    },
+    {
+      "id": "q_1778864753022_8",
+      "index": "008",
+      "questionPath": "",
+      "answerPath": "https://webshot.zujuan.com/q/01/26/fa2e16752b6f4d70be07ae873975_68956371an.png?hash=5f1902defdd8f5ae73d014b1b8e8a05b&sign=740158fdc24b4295e35c4e3260e1b7d3&from=2&sort=0&parent_id=0",
+      "images": [],
+      "source": "广东广州市天河区2026届普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "多选题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "异面直线所成的角",
+        "直线与平面垂直的判定",
+        "直线与平面垂直的性质",
+        "柱体的体积公式及应用",
+        "锥体的体积公式及应用"
+      ],
+      "questionText": "如图，在正四面体中，点分别为各棱的中点，则（ ）\nA. \nB. 平面\nC. \nD. 直线与直线所成角的余弦值为",
+      "answerText": "A,B,D",
+      "answerImages": [
+        "https://webshot.zujuan.com/q/01/26/fa2e16752b6f4d70be07ae873975_68956371an.png?hash=5f1902defdd8f5ae73d014b1b8e8a05b&sign=740158fdc24b4295e35c4e3260e1b7d3&from=2&sort=0&parent_id=0"
+      ],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/01/26/fa2e16752b6f4d70be07ae873975_68956371ex.png?hash=f6f11025738bcf993dca19d2ebd82ce6&sign=703eefc34dd9713130eb5386b030169e&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": false,
+      "questionId": "68956371",
+      "timestamp": "2026-05-15T17:05:53.023039+00:00"
+    },
+    {
+      "id": "q_1778864753022_9",
+      "index": "009",
+      "questionPath": "",
+      "answerPath": "https://webshot.zujuan.com/q/b3/87/893bfbdaea042b0e42fbf83278d8_68956372an.png?hash=b29fde80aa549d25f74963c22de3a98f&sign=6c7117ab68d5720e7692c381740ceebb&from=2&sort=0&parent_id=0",
+      "images": [],
+      "source": "广东广州市天河区2026届普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "多选题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "利用导数研究函数的单调性",
+        "函数在某点取得极值的条件",
+        "利用导数研究函数最大（小）值"
+      ],
+      "questionText": "对于函数 ， 下面说法正确的有（ ）\nA. 当时，函数有两个零点\nB. 当时，函数不存在极值点\nC. 当最小值为时，\nD. 当时，函数在区间单调递减",
+      "answerText": "B,C,D",
+      "answerImages": [
+        "https://webshot.zujuan.com/q/b3/87/893bfbdaea042b0e42fbf83278d8_68956372an.png?hash=b29fde80aa549d25f74963c22de3a98f&sign=6c7117ab68d5720e7692c381740ceebb&from=2&sort=0&parent_id=0"
+      ],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/b3/87/893bfbdaea042b0e42fbf83278d8_68956372ex.png?hash=40a0bb310cdea46101a131fa949a032a&sign=899c8ede480ac63230106ea0b939b074&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": false,
+      "questionId": "68956372",
+      "timestamp": "2026-05-15T17:05:53.023105+00:00"
+    },
+    {
+      "id": "q_1778864753022_10",
+      "index": "010",
+      "questionPath": "",
+      "answerPath": "https://webshot.zujuan.com/q/26/22/7f3c5c12369ffb2343144656ca27_68956373an.png?hash=c495e80b95d8aa60342a57bd5ef23b33&sign=1bfed4dccf9039d29b82f25a1d8fdeca&from=2&sort=0&parent_id=0",
+      "images": [],
+      "source": "广东广州市天河区2026届普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "填空题",
+      "difficulty": "容易",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "双曲线的简单性质"
+      ],
+      "questionText": "已知双曲线的虚轴长是实轴长的2倍，则的渐近线为.",
+      "answerText": "【第1空】<math xmlns=\\",
+      "answerImages": [
+        "https://webshot.zujuan.com/q/26/22/7f3c5c12369ffb2343144656ca27_68956373an.png?hash=c495e80b95d8aa60342a57bd5ef23b33&sign=1bfed4dccf9039d29b82f25a1d8fdeca&from=2&sort=0&parent_id=0"
+      ],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/26/22/7f3c5c12369ffb2343144656ca27_68956373ex.png?hash=541005f20b0ffe71dfac9e8bb5dbdecf&sign=da1fd3f1eece9a89d186c6cc96ac191d&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": false,
+      "questionId": "68956373",
+      "timestamp": "2026-05-15T17:05:53.023137+00:00"
+    },
+    {
+      "id": "q_1778864753022_11",
+      "index": "011",
+      "questionPath": "",
+      "answerPath": "https://webshot.zujuan.com/q/24/0d/22ae3bcb425c8fabb7d0e2698732_68956374an.png?hash=241c3d812fdb8d63477350c6569fc66d&sign=e239852c77a70a9510b3fb08bea5568a&from=2&sort=0&parent_id=0",
+      "images": [],
+      "source": "广东广州市天河区2026届普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "填空题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "函数恒成立问题",
+        "简单复合函数求导法则",
+        "利用导数研究函数的单调性"
+      ],
+      "questionText": "已知函数在区间上单调递增，则的取值范围为.",
+      "answerText": "【第1空】<math xmlns=\\",
+      "answerImages": [
+        "https://webshot.zujuan.com/q/24/0d/22ae3bcb425c8fabb7d0e2698732_68956374an.png?hash=241c3d812fdb8d63477350c6569fc66d&sign=e239852c77a70a9510b3fb08bea5568a&from=2&sort=0&parent_id=0"
+      ],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/24/0d/22ae3bcb425c8fabb7d0e2698732_68956374ex.png?hash=2fb9d8b1a5e5b01d606f52fb9e68e9d8&sign=917d39b3f73743390e0f253e2a956d4b&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": false,
+      "questionId": "68956374",
+      "timestamp": "2026-05-15T17:05:53.023163+00:00"
+    },
+    {
+      "id": "q_1778864753022_12",
+      "index": "012",
+      "questionPath": "",
+      "answerPath": "https://webshot.zujuan.com/q/0a/0f/1de39981d3348b784058b988d202_68956375an.png?hash=bba41a8ef73e304897fc92e4a1a79465&sign=c0df05f5e24f995077dee6a518a856c4&from=2&sort=0&parent_id=0",
+      "images": [],
+      "source": "广东广州市天河区2026届普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "填空题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "数列的求和",
+        "数列的递推公式",
+        "一元二次方程的解集"
+      ],
+      "questionText": "我们把经过同一点且半径相等的圆称为共点等圆.在平面上过同一点有个共点等圆，其中任何两个圆都有两个不同的交点，但任何三个圆除点外无其他公共点，记这个共点等圆共有个交点，若 ， 则.",
+      "answerText": "【第1空】21",
+      "answerImages": [
+        "https://webshot.zujuan.com/q/0a/0f/1de39981d3348b784058b988d202_68956375an.png?hash=bba41a8ef73e304897fc92e4a1a79465&sign=c0df05f5e24f995077dee6a518a856c4&from=2&sort=0&parent_id=0"
+      ],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/0a/0f/1de39981d3348b784058b988d202_68956375ex.png?hash=d8559bd661fa69fb44f0a19dddddafa9&sign=e44efcf4879645ced123e3b474bd47ea&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": false,
+      "questionId": "68956375",
+      "timestamp": "2026-05-15T17:05:53.023200+00:00"
+    },
+    {
+      "id": "q_1778864753022_13",
+      "index": "013",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "广东广州市天河区2026届普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "解答题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "含三角函数的复合函数的周期",
+        "正弦函数的性质",
+        "利用三角函数的单调性比较大小"
+      ],
+      "questionText": "已知函数的周期为 ， 且.",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/3d/30/c3709c15496f93d9a334d8f6c990_68956376ex.png?hash=ab8e1c62efdcc145c1e50ea531a3ab7f&sign=a179a581e2c88bb1f755c65ec101e1a1&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68956376",
+      "timestamp": "2026-05-15T17:05:53.023227+00:00"
+    },
+    {
+      "id": "q_1778864753022_14",
+      "index": "014",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "广东广州市天河区2026年普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "解答题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "众数、中位数、平均数",
+        "回归分析",
+        "超几何分布"
+      ],
+      "questionText": "某公司为了了解A商品销售收入（单位：万元）与广告支出（单位：万元）之间的关系，现收集的5组样本数据如下表所示，且经验回归方程为.256891620212810.9619.242227.5230.28",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/2d/d6/7380590989873e681e6ea12cd922_68956379ex.png?hash=2b54bbf552415dbe5b279b251030d161&sign=0a3f8527d7e275475fdc1412f6bd168f&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68956379",
+      "timestamp": "2026-05-15T17:05:53.023288+00:00"
+    },
+    {
+      "id": "q_1778864753022_15",
+      "index": "015",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "广东广州市天河区2026届普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "解答题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "导数的几何意义",
+        "利用导数研究曲线上某点切线方程",
+        "等差数列概念与表示",
+        "数列的求和",
+        "数列的通项公式"
+      ],
+      "questionText": "已知函数.",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/81/e2/7ea624e8067dd901505cf9ed8258_68956383ex.png?hash=f40c77b68ac3140bddb0fd6455309baa&sign=7a8f993885f0f3e247712890a8d1fb4b&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68956383",
+      "timestamp": "2026-05-15T17:05:53.023315+00:00"
+    },
+    {
+      "id": "q_1778864753022_16",
+      "index": "016",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "广东广州市天河区2026届普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "解答题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "直线与平面平行的判定",
+        "用空间向量研究直线与平面的位置关系",
+        "用空间向量研究二面角"
+      ],
+      "questionText": "如图.底面为平行四边形的直四棱柱 ， 点为边上的中点，点是空间一点.",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/72/7d/947a8128aead8c4a81d6c9f1c3f0_68956386ex.png?hash=30c83ceb3a3d683c56d90feabae58964&sign=de6fb96c49d453ceaa4ac37cfc8e8389&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68956386",
+      "timestamp": "2026-05-15T17:05:53.023372+00:00"
+    },
+    {
+      "id": "q_1778864753022_17",
+      "index": "017",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "广东广州市天河区2026届普通高中毕业班适应性训练（二模）数学试卷",
+      "questionType": "解答题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "抛物线的标准方程",
+        "抛物线的简单性质",
+        "直线与圆锥曲线的综合问题"
+      ],
+      "questionText": "已知点为抛物线的焦点，点在上.",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/16/39/f7cb86d2b2e262c5e6dc6a8487c0_68956390ex.png?hash=87bba79bb9f5c6369f5c31be9a188323&sign=f562323f90fdfe7ca9bebbc107f5e43a&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68956390",
+      "timestamp": "2026-05-15T17:05:53.023456+00:00"
+    }
+  ]
+}

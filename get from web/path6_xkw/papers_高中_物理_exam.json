@@ -1,0 +1,2425 @@
+[
+  {
+    "_index": "paper_v3",
+    "_id": "6395321",
+    "_score": null,
+    "sort": [
+      2026,
+      1778815681,
+      6395321
+    ],
+    "is_copyright_issue": 0,
+    "id": 6395321,
+    "title": "2026届浙江省新阵地教育联盟高三下学期第二次联考物理试题",
+    "stage": 3,
+    "subject_id": 6,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1778815680,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2234,
+        "category_name": "高中物理"
+      },
+      {
+        "category_id": 34815,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 34850,
+        "category_name": "模拟试题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "11",
+        "name": "浙江省"
+      }
+    ],
+    "citys": [
+      {
+        "id": "176",
+        "name": "宁波市"
+      }
+    ],
+    "districts": [
+      {
+        "id": "2147",
+        "name": "余姚市"
+      }
+    ],
+    "customers": null,
+    "created_at": 1773676800,
+    "updated_at": 1778815681,
+    "structure": [
+      {
+        "head_title": "选择题Ⅰ（本题共10小题，每小题3分，共30分。每小题列出的四个备选项中只有一个是符合题目要求的，不选、多选、错选均不得分）",
+        "questions": [
+          {
+            "question_id": 69344856,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 62977686,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344857,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344858,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344859,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344860,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344861,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344862,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344863,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344864,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "选择题Ⅱ（本题共3小题，每小题4分，共12分。每小题列出的四个备选项中至少有一个是符合题目要求的。全部选对的得4分，选对但不全的得2分，有错选的得0分）",
+        "questions": [
+          {
+            "question_id": 69344865,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344866,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344867,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "非选择题（本题共5小题，共58分）",
+        "questions": [
+          {
+            "question_id": 69344868,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344869,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344872,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344875,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344878,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344882,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344886,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69344890,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      69344856,
+      62977686,
+      69344857,
+      69344858,
+      69344859,
+      69344860,
+      69344861,
+      69344862,
+      69344863,
+      69344864,
+      69344865,
+      69344866,
+      69344867,
+      69344868,
+      69344869,
+      69344872,
+      69344875,
+      69344878,
+      69344882,
+      69344886,
+      69344890
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 0,
+    "download_num": 0,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": "2026·余姚模拟",
+    "examine_time": 1778815680,
+    "pid": 6395321,
+    "viewUrl": "/paper/view-6395321.shtml",
+    "edit_time": "2026-05-15",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 21,
+    "new_flag": true,
+    "new_time": 1776265523,
+    "topic": null,
+    "use_num": "0",
+    "look_num": "4",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6390856",
+    "_score": null,
+    "sort": [
+      2026,
+      1778815679,
+      6390856
+    ],
+    "is_copyright_issue": 0,
+    "id": 6390856,
+    "title": "2026届湖南省新高考教学教研联盟高三下学期4月第二次联考物理试题",
+    "stage": 3,
+    "subject_id": 6,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1778815678,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2234,
+        "category_name": "高中物理"
+      },
+      {
+        "category_id": 34815,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 34850,
+        "category_name": "模拟试题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "18",
+        "name": "湖南省"
+      }
+    ],
+    "customers": null,
+    "created_at": 1776096000,
+    "updated_at": 1778815679,
+    "structure": [
+      {
+        "head_title": "单项选择题（本题共7小题，每小题4分，共28分。在每小题给出的四个选项中，只有一项是符合题目要求的）",
+        "questions": [
+          {
+            "question_id": 69313669,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69313670,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69313671,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69313672,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69313673,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69313674,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69313675,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "多选题（本题共3小题，每小题5分，共15分。每小题有多项符合题目要求，全部选对的得5分，选对但不全的得3分，有选错的得0分）",
+        "questions": [
+          {
+            "question_id": 69313676,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69313677,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69313678,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "实验题（本题共2小题，共16分）",
+        "questions": [
+          {
+            "question_id": 69313679,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69313683,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "计算题（本题共3小题，共41分。其中第13题10分，第14题14分，第15题17分）",
+        "questions": [
+          {
+            "question_id": 69313687,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69313690,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69313694,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      69313669,
+      69313670,
+      69313671,
+      69313672,
+      69313673,
+      69313674,
+      69313675,
+      69313676,
+      69313677,
+      69313678,
+      69313679,
+      69313683,
+      69313687,
+      69313690,
+      69313694
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 0,
+    "download_num": 0,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": "2026·湖南模拟",
+    "examine_time": 1778815678,
+    "pid": 6390856,
+    "viewUrl": "/paper/view-6390856.shtml",
+    "edit_time": "2026-05-15",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 15,
+    "new_flag": true,
+    "new_time": 1776265523,
+    "topic": null,
+    "use_num": "0",
+    "look_num": "3",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6385741",
+    "_score": null,
+    "sort": [
+      2026,
+      1778815676,
+      6385741
+    ],
+    "is_copyright_issue": 0,
+    "id": 6385741,
+    "title": "2026届广西桂林市普通高中高三下学期毕业年级第一次适应性模拟考试物理试卷",
+    "stage": 3,
+    "subject_id": 6,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1778815676,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2234,
+        "category_name": "高中物理"
+      },
+      {
+        "category_id": 34815,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 34850,
+        "category_name": "模拟试题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "20",
+        "name": "广西壮族自治区"
+      }
+    ],
+    "citys": [
+      {
+        "id": "312",
+        "name": "桂林市"
+      }
+    ],
+    "customers": null,
+    "created_at": 1775836800,
+    "updated_at": 1778815676,
+    "structure": [
+      {
+        "head_title": "选择题：本大题共10小题，共46分。第1~7题，每小题4分，只有一项符合题目要求，错选、多选或未选均不得分，第8~10题，每小题6分，有多项符合题目要求，全部选对的得6分，选对但不全的得3分，有选错或不选的得0分。",
+        "questions": [
+          {
+            "question_id": 69275657,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69275658,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69275659,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69275660,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69275661,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69275662,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69275663,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69275664,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69275665,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69275666,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "填空题：本大题共2小题，共16分。",
+        "questions": [
+          {
+            "question_id": 69275667,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69275670,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "计算题：本大题共3小题，共38分。解答时应写出必要的文字说明、方程式和重要的演算步骤，只写出最后答案不能得分，有数值计算的题，答案中必须明确写出数值和单位。",
+        "questions": [
+          {
+            "question_id": 69275674,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69275677,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69275681,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      69275657,
+      69275658,
+      69275659,
+      69275660,
+      69275661,
+      69275662,
+      69275663,
+      69275664,
+      69275665,
+      69275666,
+      69275667,
+      69275670,
+      69275674,
+      69275677,
+      69275681
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 0,
+    "download_num": 0,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": "2026·桂林模拟",
+    "examine_time": 1778815676,
+    "pid": 6385741,
+    "viewUrl": "/paper/view-6385741.shtml",
+    "edit_time": "2026-05-15",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 15,
+    "new_flag": true,
+    "new_time": 1776265523,
+    "topic": null,
+    "use_num": "0",
+    "look_num": "2",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6371179",
+    "_score": null,
+    "sort": [
+      2026,
+      1778815672,
+      6371179
+    ],
+    "is_copyright_issue": 0,
+    "id": 6371179,
+    "title": "2026届四川德阳市第五中学等校高三下学期第二次诊断考试物理试题",
+    "stage": 3,
+    "subject_id": 6,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1778815672,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2234,
+        "category_name": "高中物理"
+      },
+      {
+        "category_id": 34815,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 34850,
+        "category_name": "模拟试题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "23",
+        "name": "四川省"
+      }
+    ],
+    "citys": [
+      {
+        "id": "389",
+        "name": "德阳市"
+      }
+    ],
+    "districts": [
+      {
+        "id": "4249",
+        "name": "旌阳区"
+      }
+    ],
+    "customers": null,
+    "created_at": 1774195200,
+    "updated_at": 1778815672,
+    "structure": [
+      {
+        "head_title": "单项选择题（本题共7小题，每小题4分，共28分，在每小题给出的四个选项中，只有一个选项是符合题目要求的，选对得4分，选错得0分。）",
+        "questions": [
+          {
+            "question_id": 69172735,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69172736,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69172737,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69172738,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69172739,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69172740,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69172741,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "多项选择题（本题共3小题，每小题6分，共18分，每小题有多个选项符合题目要求，全部选对的得6分，选对但不全的得3分，有选错的不得分）",
+        "questions": [
+          {
+            "question_id": 69172742,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69172743,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69172744,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "实验题（本大题共2小题，共16分。把答案填在答题卡相应的横线上。）",
+        "questions": [
+          {
+            "question_id": 69172745,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69172749,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "计算题（本大题共3小题，共38分。解答时应写出必要的文字说明、方程式和重要的演算步骤，只写出答案的不能得分，有数字计算的题，答案中必须写出数字和单位。）",
+        "questions": [
+          {
+            "question_id": 69172753,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69172756,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69172760,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      69172735,
+      69172736,
+      69172737,
+      69172738,
+      69172739,
+      69172740,
+      69172741,
+      69172742,
+      69172743,
+      69172744,
+      69172745,
+      69172749,
+      69172753,
+      69172756,
+      69172760
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 0,
+    "download_num": 0,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 1,
+    "source_text": "2026·旌阳模拟",
+    "examine_time": 1778815672,
+    "pid": 6371179,
+    "viewUrl": "/paper/view-6371179.shtml",
+    "edit_time": "2026-05-15",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 15,
+    "new_flag": true,
+    "new_time": 1776265523,
+    "topic": null,
+    "use_num": "0",
+    "look_num": "3",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6356966",
+    "_score": null,
+    "sort": [
+      2026,
+      1778815669,
+      6356966
+    ],
+    "is_copyright_issue": 0,
+    "id": 6356966,
+    "title": "2026届广东中山市高三一模物理试题",
+    "stage": 3,
+    "subject_id": 6,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1778815669,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2234,
+        "category_name": "高中物理"
+      },
+      {
+        "category_id": 34815,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 34850,
+        "category_name": "模拟试题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "19",
+        "name": "广东省"
+      }
+    ],
+    "citys": [
+      {
+        "id": "306",
+        "name": "中山市"
+      }
+    ],
+    "customers": null,
+    "created_at": 1774368000,
+    "updated_at": 1778815669,
+    "structure": [
+      {
+        "head_title": "单项选择题：本大题共7小题，每小题4分，共28分。在每个小题给出的四个选项中，只有一项是符合要求的。",
+        "questions": [
+          {
+            "question_id": 69075993,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69075994,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69075995,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69075996,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69075997,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69075998,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69075999,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "多项选择题：本题共3小题，每小题6分，共18分。在每小题给出的四个选项中，有多项符合题目要求。全部选对的得6分，选对但不全的得3分，有选错的得0分。",
+        "questions": [
+          {
+            "question_id": 69076000,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69076101,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69076102,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "非选择题：本题共5小题，共54分。",
+        "questions": [
+          {
+            "question_id": 69076103,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69076107,
+            "score": {
+              "score": 0,
+              "scoreList": "[\"0\",\"0\",\"0\",\"0\"]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69076108,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69076111,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 69076114,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      69075993,
+      69075994,
+      69075995,
+      69075996,
+      69075997,
+      69075998,
+      69075999,
+      69076000,
+      69076101,
+      69076102,
+      69076103,
+      69076107,
+      69076108,
+      69076111,
+      69076114
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 0,
+    "download_num": 0,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": "2026·中山模拟",
+    "examine_time": 1778815669,
+    "pid": 6356966,
+    "viewUrl": "/paper/view-6356966.shtml",
+    "edit_time": "2026-05-15",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 15,
+    "new_flag": true,
+    "new_time": 1776265523,
+    "topic": null,
+    "use_num": "0",
+    "look_num": "6",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6241154",
+    "_score": null,
+    "sort": [
+      2026,
+      1778806678,
+      6241154
+    ],
+    "is_copyright_issue": 0,
+    "id": 6241154,
+    "title": "湖南岳阳市2026年高三教学质量监测（一模）物理试卷",
+    "stage": 3,
+    "subject_id": 6,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1777254496,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2234,
+        "category_name": "高中物理"
+      },
+      {
+        "category_id": 34815,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 34850,
+        "category_name": "模拟试题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "18",
+        "name": "湖南省"
+      }
+    ],
+    "citys": [
+      {
+        "id": "280",
+        "name": "岳阳市"
+      }
+    ],
+    "customers": null,
+    "created_at": 1770393600,
+    "updated_at": 1778806678,
+    "structure": [
+      {
+        "head_title": "选择题：本题共7小题，每小题4分，共28分。在每小题给出的四个选项中，只有一项符合题目要求。",
+        "questions": [
+          {
+            "question_id": 68185581,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68185582,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68185583,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68185584,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68185585,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68185586,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68185587,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "选择题：本题共3小题，每小题5分，共15分。在每小题给出的四个选项中，有多项符合题目要求。全部选对的得5分，选对但不全的得3分，有选错的得0分。",
+        "questions": [
+          {
+            "question_id": 68185588,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68185589,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68185590,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "非选择题：本题共5小题，共57分。",
+        "questions": [
+          {
+            "question_id": 68185591,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68185595,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68185599,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68185602,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68185606,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      68185581,
+      68185582,
+      68185583,
+      68185584,
+      68185585,
+      68185586,
+      68185587,
+      68185588,
+      68185589,
+      68185590,
+      68185591,
+      68185595,
+      68185599,
+      68185602,
+      68185606
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 5,
+    "download_num": 1,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": "2026·岳阳模拟",
+    "examine_time": 1777254496,
+    "pid": 6241154,
+    "viewUrl": "/paper/view-6241154.shtml",
+    "edit_time": "2026-05-15",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 15,
+    "new_flag": true,
+    "new_time": 1776265523,
+    "topic": null,
+    "use_num": "1",
+    "look_num": "5",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6225839",
+    "_score": null,
+    "sort": [
+      2026,
+      1778806678,
+      6225839
+    ],
+    "is_copyright_issue": 0,
+    "id": 6225839,
+    "title": "四川省字节精准教育联盟2025-2026学年高三上学期二模物理试题",
+    "stage": 3,
+    "subject_id": 6,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1777273658,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2234,
+        "category_name": "高中物理"
+      },
+      {
+        "category_id": 34815,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 34850,
+        "category_name": "模拟试题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "23",
+        "name": "四川省"
+      }
+    ],
+    "customers": null,
+    "created_at": 1769702400,
+    "updated_at": 1778806678,
+    "structure": [
+      {
+        "head_title": "单选题（共7小题，每小题4分，共28分）",
+        "questions": [
+          {
+            "question_id": 68058581,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68058582,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 59077331,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 57759687,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68058583,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 57781588,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67721916,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "多选题（共3小题，每小题6分，共18分，漏选得3分，错选均不得分）",
+        "questions": [
+          {
+            "question_id": 68058584,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 60373869,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 63452230,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "实验题（共2小题，出标注外每空2分，共16分）",
+        "questions": [
+          {
+            "question_id": 67721918,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68058585,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "解答题（共3小题，13题10分，14题13分，15题15分，共38分）",
+        "questions": [
+          {
+            "question_id": 68058590,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 67721925,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68058591,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      68058581,
+      68058582,
+      59077331,
+      57759687,
+      68058583,
+      57781588,
+      67721916,
+      68058584,
+      60373869,
+      63452230,
+      67721918,
+      68058585,
+      68058590,
+      67721925,
+      68058591
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 6,
+    "download_num": 1,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": "2026·四川模拟",
+    "examine_time": 1777273658,
+    "pid": 6225839,
+    "viewUrl": "/paper/view-6225839.shtml",
+    "edit_time": "2026-05-15",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 15,
+    "new_flag": true,
+    "new_time": 1776265523,
+    "topic": null,
+    "use_num": "1",
+    "look_num": "6",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6221230",
+    "_score": null,
+    "sort": [
+      2026,
+      1778806678,
+      6221230
+    ],
+    "is_copyright_issue": 0,
+    "id": 6221230,
+    "title": "广东省大湾区普通高中2026年毕业年级联合模拟考试(一)物理试题",
+    "stage": 3,
+    "subject_id": 6,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1776332384,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2234,
+        "category_name": "高中物理"
+      },
+      {
+        "category_id": 34815,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 34850,
+        "category_name": "模拟试题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "19",
+        "name": "广东省"
+      }
+    ],
+    "customers": null,
+    "created_at": 1769529600,
+    "updated_at": 1778806678,
+    "structure": [
+      {
+        "head_title": "单项选择题（本题共7小题，每小题4分，共28分。在每小题给出的四个选项中，只有一项符合题目要求）",
+        "questions": [
+          {
+            "question_id": 68022671,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68022672,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68022673,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68022674,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68022675,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68022676,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68022677,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "多项选择题（本题共3小题，每小题6分，共18分。在每小题给出的四个选项中，有多项符合题目要求。全部选对的得6分，选对但不全的得3分，有选错的得0分）",
+        "questions": [
+          {
+            "question_id": 68022678,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68022679,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68022680,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "非选择题（本题共5小题，共54分。考生根据要求作答）",
+        "questions": [
+          {
+            "question_id": 68022681,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\",\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68022684,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68022689,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68022692,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68022696,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      68022671,
+      68022672,
+      68022673,
+      68022674,
+      68022675,
+      68022676,
+      68022677,
+      68022678,
+      68022679,
+      68022680,
+      68022681,
+      68022684,
+      68022689,
+      68022692,
+      68022696
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 5,
+    "download_num": 2,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": "2026·广东模拟",
+    "examine_time": 1776332384,
+    "pid": 6221230,
+    "viewUrl": "/paper/view-6221230.shtml",
+    "edit_time": "2026-05-15",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 15,
+    "new_flag": true,
+    "new_time": 1776265523,
+    "topic": null,
+    "use_num": "2",
+    "look_num": "7",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6325691",
+    "_score": null,
+    "sort": [
+      2026,
+      1778806677,
+      6325691
+    ],
+    "is_copyright_issue": 0,
+    "id": 6325691,
+    "title": "河北省保定市涿州市第二中学2026年高三下学期一模物理试题",
+    "stage": 3,
+    "subject_id": 6,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1778143928,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2234,
+        "category_name": "高中物理"
+      },
+      {
+        "category_id": 34815,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 34850,
+        "category_name": "模拟试题"
+      },
+      {
+        "category_id": 257297,
+        "category_name": "一模真题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "3",
+        "name": "河北省"
+      }
+    ],
+    "citys": [
+      {
+        "id": "78",
+        "name": "保定市"
+      }
+    ],
+    "districts": [
+      {
+        "id": "1224",
+        "name": "涿州市"
+      }
+    ],
+    "customers": null,
+    "created_at": 1773676800,
+    "updated_at": 1778806677,
+    "structure": [
+      {
+        "head_title": "单项选择题：本题共7小题，每小题4分，共28分。在每小题给出的四个选项中，只有一项是符合题目要求的。",
+        "questions": [
+          {
+            "question_id": 68853732,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68853733,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68737993,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68853734,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68853735,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68853736,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68853737,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "多项选择题：本题共3小题，每小题6分，共18分。在每小题给出的四个选项中，有多项符合题目要求。全都选对的得6分，选对但不全的得3分，有选错的得0分。",
+        "questions": [
+          {
+            "question_id": 68853738,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68853739,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68853740,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "非选择题：本题共5小题，共54分。",
+        "questions": [
+          {
+            "question_id": 68853741,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68853744,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68853749,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68853752,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68853756,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      68853732,
+      68853733,
+      68737993,
+      68853734,
+      68853735,
+      68853736,
+      68853737,
+      68853738,
+      68853739,
+      68853740,
+      68853741,
+      68853744,
+      68853749,
+      68853752,
+      68853756
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 2,
+    "download_num": 1,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 1,
+    "source_text": "2026·涿州模拟",
+    "examine_time": 1778143928,
+    "pid": 6325691,
+    "viewUrl": "/paper/view-6325691.shtml",
+    "edit_time": "2026-05-15",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 15,
+    "new_flag": true,
+    "new_time": 1776265523,
+    "topic": null,
+    "use_num": "1",
+    "look_num": "2",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  },
+  {
+    "_index": "paper_v3",
+    "_id": "6250383",
+    "_score": null,
+    "sort": [
+      2026,
+      1778806677,
+      6250383
+    ],
+    "is_copyright_issue": 0,
+    "id": 6250383,
+    "title": "湖南省湘潭市2026年高考二模物理试题",
+    "stage": 3,
+    "subject_id": 6,
+    "type": 9,
+    "type_text": "高考模拟",
+    "version_id": 0,
+    "year": 2026,
+    "is_share": 2,
+    "examined_at": 1777273446,
+    "from": 1,
+    "categories": [
+      {
+        "category_id": 2234,
+        "category_name": "高中物理"
+      },
+      {
+        "category_id": 34815,
+        "category_name": "高考专区"
+      },
+      {
+        "category_id": 34850,
+        "category_name": "模拟试题"
+      }
+    ],
+    "provinces": [
+      {
+        "id": "18",
+        "name": "湖南省"
+      }
+    ],
+    "citys": [
+      {
+        "id": "277",
+        "name": "湘潭市"
+      }
+    ],
+    "customers": null,
+    "created_at": 1770393600,
+    "updated_at": 1778806677,
+    "structure": [
+      {
+        "head_title": "单项选择题：本题共7小题，每小题4分，共28分。在每小题给出的四个选项中，只有一项是符合题目要求的。",
+        "questions": [
+          {
+            "question_id": 68260974,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68260975,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68260976,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68260977,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68260978,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68260979,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68260980,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "多项选择题：本题共3小题，每小题5分，共15分。在每小题给出的四个选项中，有多项符合题目要求。全部选对的得5分，选对但不全的得3分，有选错的得0分。",
+        "questions": [
+          {
+            "question_id": 68260981,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68260982,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68260983,
+            "score": {
+              "score": 0,
+              "scoreList": null,
+              "subScore": null
+            }
+          }
+        ]
+      },
+      {
+        "head_title": "非选择题：共57分。",
+        "questions": [
+          {
+            "question_id": 68260984,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68260989,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]},{\"score\":\"0\",\"scoreList\":[\"0\",\"0\"]}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68260992,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68260995,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          },
+          {
+            "question_id": 68260998,
+            "score": {
+              "score": 0,
+              "scoreList": "[{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null},{\"score\":\"0\",\"scoreList\":null}]",
+              "subScore": null
+            }
+          }
+        ]
+      }
+    ],
+    "question_ids": [
+      68260974,
+      68260975,
+      68260976,
+      68260977,
+      68260978,
+      68260979,
+      68260980,
+      68260981,
+      68260982,
+      68260983,
+      68260984,
+      68260989,
+      68260992,
+      68260995,
+      68260998
+    ],
+    "style": "[0,0,0,0,0,0,0,0,0,0,0,0]",
+    "exegesis": "{\"examtime\":null,\"notes\":null,\"subtitle\":null,\"score\":null,\"part_name\":null,\"part_tip\":null,\"part_count\":null}",
+    "term_id": 29,
+    "term_name": "高考阶段",
+    "has_extra_file": 0,
+    "audio_file_url": "",
+    "browse_num": 7,
+    "download_num": 2,
+    "is_lock": 0,
+    "show_type": 1,
+    "show_list": 0,
+    "from_school": 0,
+    "source_text": "2026·湘潭模拟",
+    "examine_time": 1777273446,
+    "pid": 6250383,
+    "viewUrl": "/paper/view-6250383.shtml",
+    "edit_time": "2026-05-15",
+    "iconClass": "iconf-moni",
+    "typeName": "高考模拟",
+    "question_num": 15,
+    "new_flag": true,
+    "new_time": 1776265523,
+    "topic": null,
+    "use_num": "2",
+    "look_num": "9",
+    "extra_file": "",
+    "show_all_content": 1,
+    "author": "",
+    "icon": "moni",
+    "format_examine_time": "Invalid date"
+  }
+]

@@ -1,0 +1,477 @@
+{
+  "options": {
+    "timestamp": "1778864895913",
+    "knowledgeId": "",
+    "knowledgePoint": "",
+    "grade": "高中",
+    "subject": "化学",
+    "type": "整卷",
+    "paperType": "高考模拟",
+    "paperId": "6229652",
+    "paperTitle": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+    "year": null,
+    "order": "最新",
+    "source": "paper"
+  },
+  "results": [
+    {
+      "id": "q_1778864895913_1",
+      "index": "001",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "化学科学的主要研究对象",
+        "铁的氧化物和氢氧化物"
+      ],
+      "questionText": "科学研究发现，百慕大三角之下的岩石中含有磁铁矿，会影响船舶航向。下列有关磁铁矿的叙述错误的是\nA. 只用硝酸和溶液可确定磁铁矿中铁的价态\nB. 古代利用磁铁矿石制造指南针的过程发生的是物理变化\nC. 磁铁矿的主要成分是 ， 其俗名是磁性氧化铁\nD. 磁铁矿的强磁性导致船舶的罗盘指向偏离",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/bc/98/df78965bb9e831073fb324985b16_68089130ex.png?hash=797a225f340500a2c5897e4a4521d02b&sign=84a746571637c62f5d769425e9675065&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089130",
+      "timestamp": "2026-05-15T17:08:15.914379+00:00"
+    },
+    {
+      "id": "q_1778864895913_2",
+      "index": "002",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "原子核外电子排布",
+        "氢键的存在对物质性质的影响",
+        "晶体的定义",
+        "元素周期表的结构及其应用"
+      ],
+      "questionText": "锑(Sb)及其化合物在工业生产和生活中有广泛的应用，一种制备Sb的方法如下： 。下列叙述错误的是\nA. 基态的核外电子排布式为\nB. 水分子间氢键的作用力大于范德华力\nC. 该反应涉及的物质中有离子晶体、金属晶体和分子晶体\nD. Na、Cu、Sb分别位于元素周期表的s区、d区和p区",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/de/9b/f8ba7a86eec7a659c96c9840e010_68089131ex.png?hash=42a87504477e42fc1cf5f49376a74c8e&sign=1b6331fdf93b4664691e0dc946a4054a&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089131",
+      "timestamp": "2026-05-15T17:08:15.914556+00:00"
+    },
+    {
+      "id": "q_1778864895913_3",
+      "index": "003",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "氨的性质及用途",
+        "硅和二氧化硅",
+        "石油的分馏产品和用途",
+        "石油的分馏",
+        "油脂的性质、组成与结构"
+      ],
+      "questionText": "在资源利用中，下列化工生产经一步反应不能达到目的的是\nA. 工业制硝酸：NH3NO\nB. 石油制丙烯：石油丙烯\nC. 地沟油制皂：地沟油肥皂\nD. 粗硅冶炼：硅石粗硅",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/e6/c6/0ea76fb9a68a90abb840c0cc3f61_68089132ex.png?hash=0f0f98710404f0fd5ae24c896e2a1e1e&sign=0427c5c32eac52600000aa8cfdd48124&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089132",
+      "timestamp": "2026-05-15T17:08:15.914669+00:00"
+    },
+    {
+      "id": "q_1778864895913_4",
+      "index": "004",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "“手性分子”在生命科学等方面的应用",
+        "有机物中的官能团",
+        "有机物的结构和性质"
+      ],
+      "questionText": "叶酸(结构如图)属于维生素B9 ， 是一种水溶性维生素。下列叙述正确的是\nA. 叶酸既能与盐酸反应，又能与反应\nB. 叶酸分子中含2个手性碳原子\nC. 叶酸分子中有四种含氧官能团\nD. 叶酸能发生加成、取代和消去反应",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/08/17/ccac0c58adca2d60e866c74689ea_68089133ex.png?hash=213db05123df983590ca4d74c950c5ec&sign=f3ad468b2060ba4a4e20ee85986d0654&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089133",
+      "timestamp": "2026-05-15T17:08:15.914778+00:00"
+    },
+    {
+      "id": "q_1778864895913_5",
+      "index": "005",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "单选题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "铜及其化合物",
+        "物质的量的相关计算"
+      ],
+      "questionText": "某实验小组利用如图装置制备氢气并测定铜的摩尔质量。下列有关说法错误的是\nA. 实验前需要先检查装置的气密性\nB. 实验时装有醋酸铅溶液的试剂瓶有黑色沉淀产生，说明粗锌中含有硫元素\nC. 碱石灰的作用是除去混合气体中可能含有的\nD. 设试管质量为a g，反应前试管与氧化铜质量和为m g，反应后试管与固体质量和为n g，则铜的摩尔质量为",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/8f/df/495cddafce23c35fdca8087e51cb_68089134ex.png?hash=96e83f6e0eddea6fa2c6725c5f649cd9&sign=88a29b5ded739520250e97b9d3d0a8f0&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089134",
+      "timestamp": "2026-05-15T17:08:15.914877+00:00"
+    },
+    {
+      "id": "q_1778864895913_6",
+      "index": "006",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "单选题",
+      "difficulty": "容易",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "化学科学的主要研究对象",
+        "单糖的性质和用途",
+        "探究碳酸钠与碳酸氢钠的性质"
+      ],
+      "questionText": "劳动创造美好生活。下列用化学知识解释对应劳动项目不合理的是选项劳动项目化学知识A用葡萄酿制葡萄酒葡萄中的糖类在酵母作用下发酵生成乙醇B用草木灰(含)改良酸性土壤能与酸发生中和反应C用食醋除水壶中的水垢食醋中的醋酸可与水垢(主要含碳酸钙等)反应D用小苏打发面小苏打与酸性物质反应产生使面团膨胀\nA. A\nB. B\nC. C\nD. D",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/f0/d7/f82b3888a070d5658a65d620d4fd_68089135ex.png?hash=b8793f3777fa007dbc2587a454afe089&sign=a5524ef3b8c480c0e83ac13d13b3e154&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089135",
+      "timestamp": "2026-05-15T17:08:15.915011+00:00"
+    },
+    {
+      "id": "q_1778864895913_7",
+      "index": "007",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "氧化还原反应的电子转移数目计算",
+        "物质的量的相关计算",
+        "阿伏加德罗常数"
+      ],
+      "questionText": "设为阿伏加德罗常数的值。下列叙述正确的是\nA. 由甲醛和乙酸组成的混合物含有的碳原子数为\nB. 分子含极性共价键的数目为\nC. 溶液中阳离子总数小于\nD. 碱性锌锰电池正极质量净减时，理论上转移的电子数为",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/54/f0/ced943bd4ec4e25a060267fe9beb_68089136ex.png?hash=b85e9005458541486ac68d14cda2ef62&sign=bcf90b2da3bd940a6dc42539544fb6ed&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089136",
+      "timestamp": "2026-05-15T17:08:15.915109+00:00"
+    },
+    {
+      "id": "q_1778864895913_8",
+      "index": "008",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "氯气的实验室制法",
+        "氨的实验室制法",
+        "制备实验方案的设计",
+        "离子方程式的书写"
+      ],
+      "questionText": "下列化学反应表示正确且符合题意的是\nA. 实验小组将溶液与溶液混合：\nB. 实验室制备立德粉：\nC. 实验室制备氯气：\nD. 实验室用生石灰与浓氨水制备氨气：",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/01/83/b33281645abba5add38ffab95308_68089137ex.png?hash=d638bd7dd04be7edc87e43176db8bb9c&sign=f293c34b18c846f9bf1db05505d811a0&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089137",
+      "timestamp": "2026-05-15T17:08:15.915198+00:00"
+    },
+    {
+      "id": "q_1778864895913_9",
+      "index": "009",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "电解原理",
+        "制备实验方案的设计",
+        "电解池工作原理及应用"
+      ],
+      "questionText": "单质锰和活性氧化锌都是高功能精细化工产品。某实验小组以含有(难溶于水)和的混合物为原料制备活性氧化锌和单质锰的工艺流程如图，下列叙述错误的是\nA. “酸浸”时，转化为和\nB. “调pH”时有滤渣生成，灼烧该滤渣可以得到铁红\nC. “煅烧”需要用到蒸发皿、玻璃棒和酒精灯等\nD. “电解”时阴极的电极反应式为",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/17/fe/3884176dca90a2b4d268bdb68f49_68089138ex.png?hash=3fa93bdab74b8da1f0560964d70d6871&sign=fc627df492f763c29c29b4716c0d3cd0&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089138",
+      "timestamp": "2026-05-15T17:08:15.915290+00:00"
+    },
+    {
+      "id": "q_1778864895913_10",
+      "index": "010",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "单选题",
+      "difficulty": "普通",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "元素电离能、电负性的含义及应用",
+        "原子结构与元素的性质",
+        "化学键",
+        "元素周期律和元素周期表的综合应用",
+        "微粒半径大小的比较"
+      ],
+      "questionText": "化合物Q是一种常用的表面活性剂，具有起泡性能好、去污能力强等特点，其结构如图所示。已知X、Y、Z、W、M均为短周期主族元素，X、Y位于同一主族，X、W位于同一周期，M原子的核外电子只有一种运动状态，Z是短周期中金属性最强的元素。下列说法正确的是\nA. 简单离子半径：\nB. 第一电离能：\nC. 由X、Y、Z元素组成的盐只有两种\nD. M、Z均可与X形成两种化合物，且这四种化合物中的化学键种类相同",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/f2/cb/582413eebf914c70a296e6f28dcf_68089139ex.png?hash=b4b0f22370067f1cd1ab50b763e44251&sign=85e8416a26cd98936766f7384705da87&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089139",
+      "timestamp": "2026-05-15T17:08:15.915379+00:00"
+    },
+    {
+      "id": "q_1778864895913_11",
+      "index": "011",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "单选题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "活化能及其对化学反应速率的影响",
+        "焓变和熵变",
+        "化学反应速率的影响因素",
+        "化学平衡的影响因素"
+      ],
+      "questionText": "一定温度下，反应的历程如图实线所示，在催化剂作用下，反应历程如图虚线所示，反应方程式为、。下列说法正确的是\nA. 反应可自发进行，则其\nB. 催化剂的加入，改变了反应的历程，降低了焓变\nC. 达到平衡后降低温度，步骤Ⅰ的反应速率比步骤Ⅱ的反应速率降低得更多\nD. 同温条件下，压缩容器体积，实线历程和虚线历程的均增大",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/d5/4b/d2170c1785552932caca742c0637_68089140ex.png?hash=fe91acc9adb4f92b0a2e5dc89fe9fcc5&sign=e34a6c681fdacbcae8f2479903b757b0&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089140",
+      "timestamp": "2026-05-15T17:08:15.915471+00:00"
+    },
+    {
+      "id": "q_1778864895913_12",
+      "index": "012",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "单选题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "离子晶体",
+        "晶胞的计算"
+      ],
+      "questionText": "的熔点约为2350℃，常用作高温陶瓷与结构材料，其立方晶胞如图所示。下列叙述正确的是已知晶胞边长为。1、4号原子坐标分别为和。\nA. 属于分子晶体\nB. 4个Be与C相邻且最近等距离\nC. 3号原子坐标为\nD. 2个的最近距离为",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/0a/0a/9a9aed3af596d0009051be6ad10e_68089141ex.png?hash=30d2a13348191637974d67772d317936&sign=ac9167487d6ffaa456553819dc0c166c&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089141",
+      "timestamp": "2026-05-15T17:08:15.915564+00:00"
+    },
+    {
+      "id": "q_1778864895913_13",
+      "index": "013",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "单选题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "电解原理",
+        "电解池工作原理及应用"
+      ],
+      "questionText": "科研人员采用电化学方法以甲为原料合成丙。下列说法正确的是\nA. 电极a为阴极，发生还原反应\nB. 膜R为阴离子交换膜\nC. 电极b上生成丙的总反应式为\nD. 若电路中转移电子，一定生成丙",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/03/a2/d6a0afaefb7eadb5821cc2da9558_68089142ex.png?hash=2bc82f674f25dad18ed43202663ee9db&sign=96c0c8fd9e4f265b28409fe612583243&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089142",
+      "timestamp": "2026-05-15T17:08:15.915645+00:00"
+    },
+    {
+      "id": "q_1778864895913_14",
+      "index": "014",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "单选题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "化学平衡转化过程中的变化曲线",
+        "弱电解质在水溶液中的电离平衡",
+        "离子浓度大小的比较",
+        "中和滴定",
+        "电离平衡常数"
+      ],
+      "questionText": "常温下，向溶液中滴加溶液，各含C微粒分布系数如图所示。一般认为二元弱酸能被分步准确滴定的条件是。下列说法错误的是\nA. 常温下，的\nB. 滴入溶液时，若 ， 则此时\nC. 当达到第一次滴定终点时，溶液中存在\nD. 借助指示剂甲基橙和酚酞，用标准溶液无法测定、混合液中的含量",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/8e/bb/3a9aa916baaef173df4322fbeb34_68089143ex.png?hash=0489bc02036dcd88969867cb84a95f19&sign=b30b3761692057454a5afd953dcc77f6&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089143",
+      "timestamp": "2026-05-15T17:08:15.915771+00:00"
+    },
+    {
+      "id": "q_1778864895913_15",
+      "index": "015",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "解答题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "常用仪器及其使用",
+        "过滤",
+        "制备实验方案的设计"
+      ],
+      "questionText": "咪唑()是一种化工产品。某实验小组用OHC-CHO、HCHO、按物质的量之比为反应制备咪唑，装置和步骤如下：①投料在三口烧瓶中加入适量硫酸铵和蒸馏水，搅拌溶解；在滴液漏斗中加入乙二醛与甲醛的混合液(含 OHC-CHO和 HCHO)，滴加时三口烧瓶中溶液的温度低于40℃，滴毕升温至85~88℃，保温4h，反应液逐渐变浑浊。②排氨冷却至50~60℃，分批加入氢氧化钙固体至；升温至85~90℃，保温1h排尽氨气。③浓缩趁热过滤，用热水洗涤滤饼2~3次；合并滤液与洗液，常压浓缩至有大量晶体析出，再减压浓缩至黏稠状。④提纯减压蒸馏，油泵减压 ， 收集馏分，得淡黄色粗咪唑。⑤精制用苯加热溶解，趁热过滤，冷却后析出白色针状晶体；抽滤、真空干燥，得到咪唑3.06 g。已知：乙二醛的沸点为51℃，咪唑的沸点为267℃且咪唑在水中的溶解度随温度升高而显著增加。回答下列问题：",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/64/ac/2bd9782c2a234131f2f13e59e7b4_68089144ex.png?hash=148bfbda54a270c92f5f6d549bf986f5&sign=7b42e35fe04ae68918c6a1b838057a78&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089144",
+      "timestamp": "2026-05-15T17:08:15.915959+00:00"
+    },
+    {
+      "id": "q_1778864895913_16",
+      "index": "016",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "解答题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "晶胞的计算",
+        "难溶电解质的溶解平衡及沉淀转化的本质",
+        "物质的分离与提纯",
+        "离子方程式的书写"
+      ],
+      "questionText": "在石油加工领域，用作催化剂，参与脱碳、脱硫等反应，以提升燃料的品质。从一种含钒废催化剂(主要成分为和以及载体)中回收钒、钨的工艺流程如图所示。已知：①、、可与反应生成、和；②不同pH下六价W和五价V的离子存在形式如表所示：六价W的存在形式五价V的存在形式pH存在形式pH存在形式>6.5>8.52.02.0请回答下列问题：",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/6d/ee/693255dc1d62cc1f1d835a216127_68089152ex.png?hash=30e0e1886f85e8b6df1c6cae832bd3f5&sign=920e8653895e37a7dff114e95d14c6cd&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089152",
+      "timestamp": "2026-05-15T17:08:15.916089+00:00"
+    },
+    {
+      "id": "q_1778864895913_17",
+      "index": "017",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "解答题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "盖斯定律及其应用",
+        "化学平衡常数",
+        "化学反应速率的影响因素",
+        "化学平衡状态的判断"
+      ],
+      "questionText": "江南大学一团队开发了一种新型铑基单原子催化体系( ， )，实现了加氢一步高效制乙醇，涉及的有关反应如下：① ② ③ 回答下列问题：",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/a0/3b/878a901a1d194d88bc0acb1f9c0c_68089159ex.png?hash=c3f709d21d175c0bd5e2f8802eda3b43&sign=87a9009e2215b059ed1b801a61b48dd2&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089159",
+      "timestamp": "2026-05-15T17:08:15.916162+00:00"
+    },
+    {
+      "id": "q_1778864895913_18",
+      "index": "018",
+      "questionPath": "",
+      "answerPath": "",
+      "images": [],
+      "source": "河北衡水市第二中学等校2025-2026学年高三下学期一模化学试题试题",
+      "questionType": "解答题",
+      "difficulty": "困难",
+      "scoreRate": null,
+      "knowledgeKeywords": [
+        "利用质谱、红外光谱、核磁共振等确定有机物的结构",
+        "有机物的合成",
+        "有机物的结构和性质",
+        "同分异构现象和同分异构体",
+        "取代反应"
+      ],
+      "questionText": "某课题组通过使用AI对某目标分子进行合成分析，设计了如下合成路线：已知：Ⅰ.对于苯环，是间位取代定位基；、是邻、对位取代定位基，且决定性为。Ⅱ.卤苯发生取代时，电负性越强，越容易被取代。回答下列问题：",
+      "answerText": "",
+      "answerImages": [],
+      "explanationImages": [
+        "https://webshot.zujuan.com/q/de/13/a88c28341014561d9652d56740c6_68089165ex.png?hash=75ae7aafe8690291c393282541cb0c16&sign=29936a504e3bf084823d827686d878bb&from=2&sort=0&parent_id=0"
+      ],
+      "answerLocked": true,
+      "questionId": "68089165",
+      "timestamp": "2026-05-15T17:08:15.916222+00:00"
+    }
+  ]
+}
