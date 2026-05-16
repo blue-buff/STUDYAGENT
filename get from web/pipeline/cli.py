@@ -180,38 +180,84 @@ def extract(paper_id):
     meta = data["_meta"]
     chid = str(meta.get("chid", "3"))
 
+    # 子题型数字ID→名称映射
+    SUB_TYPE_MAP = {"1": "单选题", "4": "填空题", "5": "解答题/问答题"}
+
     questions = []
     for section in data.get("content", []):
-        head = section.get("head_title", "")
         for q in section.get("questions", []):
             qid = str(q.get("question_id", ""))
+
             # 知识点
             kp_dict = q.get("knowledge_info", {})
             kp_list = [v["name"] for v in kp_dict.values()
                        if isinstance(v, dict) and v.get("name")] if isinstance(kp_dict, dict) else []
-            # 选项
-            opts = q.get("options", {})
-            opts = {k: v for k, v in opts.items() if v} if isinstance(opts, dict) else {}
-            # 答案
-            ans = q.get("answer", "") or ""
-            ans_json = q.get("answer_json", [])
-            if isinstance(ans_json, list) and not ans:
-                ans = ", ".join(a for a in ans_json if a)
+
             # 来源
             ps = q.get("paper_source", {})
             src = ps.get("source_text", "") if isinstance(ps, dict) else ""
 
-            questions.append({
-                "id": qid,
-                "index": q.get("tihao", ""),
-                "type": q.get("channel_type_name", ""),
-                "difficulty": q.get("difficult_name", ""),
-                "knowledge_points": kp_list,
-                "question_text": q.get("title", ""),
-                "options": opts,
-                "answer_text": ans,
-                "source": src,
-            })
+            # 题型
+            qtype = q.get("channel_type_name", "")
+            diff = q.get("difficult_name", "")
+
+            # 展开 list 子题（语文阅读理解、英语阅读、地理综合题等）
+            sub_list = q.get("list", [])
+            tihao_list = q.get("tihao", []) if isinstance(q.get("tihao"), list) else []
+
+            if sub_list and isinstance(sub_list, list):
+                for si, sub in enumerate(sub_list):
+                    sqid = str(sub.get("question_id", ""))
+                    if not sqid:
+                        continue
+                    # 子题题型（数字ID映射）
+                    sqt = sub.get("question_type", "")
+                    stype = SUB_TYPE_MAP.get(str(sqt), qtype) if sqt else qtype
+                    # 子题选项
+                    sopts = sub.get("options", {})
+                    sopts = {k: v for k, v in sopts.items() if v} if isinstance(sopts, dict) else {}
+                    # 子题题号（从父题 tihao[i] 取）
+                    sidx = str(tihao_list[si]) if si < len(tihao_list) else f"{si+1}"
+                    # 子题答案
+                    sans = sub.get("answer", "") or ""
+                    sans_json = sub.get("answer_json", [])
+                    if isinstance(sans_json, list) and not sans:
+                        sans = ", ".join(a for a in sans_json if a)
+                    questions.append({
+                        "id": sqid,
+                        "parent_id": qid,
+                        "index": sidx,
+                        "type": stype,
+                        "difficulty": diff or q.get("difficult_name", ""),
+                        "knowledge_points": kp_list,
+                        "question_text": sub.get("question_text", sub.get("title", "")),
+                        "options": sopts,
+                        "answer_text": sans,
+                        "source": src,
+                    })
+            else:
+                # 直题（无 list）
+                opts = q.get("options", {})
+                opts = {k: v for k, v in opts.items() if v} if isinstance(opts, dict) else {}
+                ans = q.get("answer", "") or ""
+                ans_json = q.get("answer_json", [])
+                if isinstance(ans_json, list) and not ans:
+                    ans = ", ".join(a for a in ans_json if a)
+                # 索引
+                idx = q.get("tihao", "")
+                if isinstance(idx, list):
+                    idx = ", ".join(str(x) for x in idx)
+                questions.append({
+                    "id": qid,
+                    "index": str(idx),
+                    "type": qtype,
+                    "difficulty": diff,
+                    "knowledge_points": kp_list,
+                    "question_text": q.get("title", ""),
+                    "options": opts,
+                    "answer_text": ans,
+                    "source": src,
+                })
 
     return {
         "paper_id": paper_id,
