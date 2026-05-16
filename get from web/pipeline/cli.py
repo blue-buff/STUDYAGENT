@@ -43,10 +43,16 @@ import requests
 from bs4 import BeautifulSoup
 
 # ── 路径 ──
-BASE_DIR = Path(__file__).parent
+BASE_DIR = Path(__file__).resolve().parent  # resolve() 跟随软链接，拿到真实路径
 PROJECT_DIR = BASE_DIR.parent
 SHARED_DIR = PROJECT_DIR / "shared"
 DB_PATH = BASE_DIR / "questions.db"
+
+# 也支持环境变量覆盖（方便全局安装）
+if os.environ.get("TIKU_SHARED_DIR"):
+    SHARED_DIR = Path(os.environ["TIKU_SHARED_DIR"])
+if os.environ.get("TIKU_DB_PATH"):
+    DB_PATH = Path(os.environ["TIKU_DB_PATH"])
 
 # ── 常量 ──
 BASE_URL = "https://www.chujuan.cn"
@@ -179,6 +185,7 @@ def extract(paper_id):
     data = json.loads(html[start:end])
     meta = data["_meta"]
     chid = str(meta.get("chid", "3"))
+    paper_year = meta.get("year")  # 试卷年份
 
     # 子题型数字ID→名称映射
     SUB_TYPE_MAP = {"1": "单选题", "4": "填空题", "5": "解答题/问答题"}
@@ -234,6 +241,7 @@ def extract(paper_id):
                         "options": sopts,
                         "answer_text": sans,
                         "source": src,
+                        "year": paper_year,
                     })
             else:
                 # 直题（无 list）
@@ -257,6 +265,7 @@ def extract(paper_id):
                     "options": opts,
                     "answer_text": ans,
                     "source": src,
+                    "year": paper_year,
                 })
 
     return {
@@ -302,7 +311,9 @@ def search(subject=None, knowledge_point=None, question_type=None,
     if subject:
         conds.append("q.subject = ?"); params.append(subject)
     if knowledge_point:
-        conds.append("kp.name = ?"); params.append(knowledge_point)
+        # 用多种匹配策略：精确匹配 > 词首匹配 > 全字段模糊匹配
+        conds.append("(kp.name = ? OR kp.name LIKE ? OR kp.name LIKE ?)")
+        params.extend([knowledge_point, f"{knowledge_point}%", f"%{knowledge_point}%"])
     if question_type:
         conds.append("q.question_type = ?"); params.append(question_type)
     if difficulty:
@@ -354,10 +365,11 @@ def stats():
         types[r["question_type"]] = r["c"]
 
     conn.close()
+    rate = f"{with_ans / total * 100:.1f}%" if total else "0%"
     return {
         "total": total,
         "with_answers": with_ans,
-        "answer_rate": f"{with_ans / total * 100:.1f}%" if total else "0%",
+        "answer_rate": rate,
         "subjects": subjects,
         "types": types,
     }
@@ -394,14 +406,15 @@ def _insert_paper(paper, conn):
             continue
         conn.execute("""
             INSERT INTO questions (id, subject, grade, question_type, difficulty,
-                question_text, options, answer_text, source, answer_locked)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                question_text, options, answer_text, source, answer_locked, year)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (
             qid, paper["subject"], "高中", q["type"], q["difficulty"],
             q["question_text"],
             json.dumps(q.get("options", {}), ensure_ascii=False),
             q["answer_text"], q["source"],
             0 if q["answer_text"] else 1,
+            q.get("year"),
         ))
         for kp in q.get("knowledge_points", []):
             if not kp:
@@ -509,9 +522,14 @@ def cmd_search(args):
         for r in results:
             kps = ", ".join(r["knowledge_points"][:3])
             ans = f" [答案:{r['answer_text']}]" if r["answer_text"] else ""
+            opts_lbl = " ".join(r["options"].keys()) if r["options"] else ""
+            year = f" | {r['year']}" if r.get("year") else ""
             source = f" | {r['source']}" if r["source"] else ""
             print(f"  [{r['type']}] {_plain_text(r['question_text'])[:80]}{ans}")
-            print(f"      知识点: {kps} | 难度: {r['difficulty']}{source}")
+            if opts_lbl:
+                print(f"      选项: {opts_lbl} | 知识点: {kps} | 难度: {r['difficulty']}{year}{source}")
+            else:
+                print(f"      知识点: {kps} | 难度: {r['difficulty']}{year}{source}")
 
 
 # ── 答案补全（方向A：webshot 不限配额）──
@@ -750,19 +768,34 @@ def cmd_stats(args):
 
 
 def cmd_batch(args):
-    """批量摄入"""
-    result = discover(args.subject, args.zone, page=1, per_page=args.count)
+    """批量摄入，自动翻页"""
     total_in = 0
-    for p in result["papers"]:
-        try:
-            n = ingest(p["paper_id"])
-            total_in += n
-            print(f"  {p['paper_id']}: {n} 题")
-            time.sleep(1)
-        except Exception as e:
-            print(f"  {p['paper_id']}: 失败 ({e})")
+    page = 1
+    processed = 0
+    target = args.count
+    while processed < target:
+        result = discover(args.subject, args.zone, page=page, per_page=20)
+        papers = result["papers"]
+        if not papers:
+            break
+        for p in papers:
+            if processed >= target:
+                break
+            try:
+                n = ingest(p["paper_id"])
+                total_in += n
+                processed += 1
+                print(f"  [{processed}/{target}] {p['paper_id']}: {n} 题")
+                time.sleep(0.5)
+            except Exception as e:
+                print(f"  [{processed}] {p['paper_id']}: 失败 ({e})")
+        page += 1
+        if page > 300:  # 安全上限 300 页 × 10 = 3000 套
+            break
+        time.sleep(1)
+    print(f"\n总计: {processed} 套试卷, {total_in} 新题入库")
     if args.json:
-        print(json.dumps({"total_ingested": total_in, "papers_processed": len(result["papers"])}))
+        print(json.dumps({"total_ingested": total_in, "papers_processed": processed}))
 
 
 def main():
